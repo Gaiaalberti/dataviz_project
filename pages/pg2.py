@@ -15,6 +15,12 @@ from PIL import Image
 from dash import dcc, html, callback, Output, Input
 # import networkx as nx
 # import plotly.express as px
+import os
+
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+dname = dname.replace("\\", "/")
+os.chdir(dname)
 
 
 dash.register_page(__name__, name='Gender Gap')

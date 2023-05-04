@@ -10,6 +10,12 @@ from dash import dcc, html, callback, Output, Input
 import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
+import os
+
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+dname = dname.replace("\\", "/")
+os.chdir(dname)
 
 
 
