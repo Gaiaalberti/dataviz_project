@@ -1,0 +1,3782 @@
+{
+  "meps": {
+    "mep": [
+      {
+        "fullName": "Adamos ADAMOU",
+        "id": 28469
+      },
+      {
+        "fullName": "Filip ADWENT",
+        "id": 28302
+      },
+      {
+        "fullName": "Vittorio AGNOLETTO",
+        "id": 28975
+      },
+      {
+        "fullName": "Vincenzo AITA",
+        "id": 36583
+      },
+      {
+        "fullName": "Gabriele ALBERTINI",
+        "id": 28367
+      },
+      {
+        "fullName": "Nedzhmi ALI",
+        "id": 34250
+      },
+      {
+        "fullName": "Jim ALLISTER",
+        "id": 28512
+      },
+      {
+        "fullName": "Alexander Nuno PICKART ALVARO",
+        "id": 28246
+      },
+      {
+        "fullName": "Roberta Alma ANASTASE",
+        "id": 33964
+      },
+      {
+        "fullName": "Jan ANDERSSON",
+        "id": 2107
+      },
+      {
+        "fullName": "Georgs ANDREJEVS",
+        "id": 28620
+      },
+      {
+        "fullName": "Alfonso ANDRIA",
+        "id": 28363
+      },
+      {
+        "fullName": "Laima Liucija ANDRIKIENĖ",
+        "id": 28276
+      },
+      {
+        "fullName": "Emmanouil ANGELAKAS",
+        "id": 39316
+      },
+      {
+        "fullName": "Roberta ANGELILLI",
+        "id": 1941
+      },
+      {
+        "fullName": "Rapisardo ANTINUCCI",
+        "id": 72723
+      },
+      {
+        "fullName": "Alin Lucian ANTOCHI",
+        "id": 95280
+      },
+      {
+        "fullName": "Alfredo ANTONIOZZI",
+        "id": 28422
+      },
+      {
+        "fullName": "Kader ARIF",
+        "id": 28137
+      },
+      {
+        "fullName": "Stavros ARNAOUTAKIS",
+        "id": 28578
+      },
+      {
+        "fullName": "Richard ASHWORTH",
+        "id": 28132
+      },
+      {
+        "fullName": "Francisco ASSIS",
+        "id": 28307
+      },
+      {
+        "fullName": "Alexandru ATHANASIU",
+        "id": 33994
+      },
+      {
+        "fullName": "Sir Robert ATKINS",
+        "id": 4537
+      },
+      {
+        "fullName": "John ATTARD-MONTALTO",
+        "id": 23938
+      },
+      {
+        "fullName": "Elspeth ATTWOOLL",
+        "id": 4547
+      },
+      {
+        "fullName": "Marie-Hélène AUBERT",
+        "id": 28213
+      },
+      {
+        "fullName": "Jean-Pierre AUDY",
+        "id": 33775
+      },
+      {
+        "fullName": "Margrete AUKEN",
+        "id": 28161
+      },
+      {
+        "fullName": "Inés AYALA SENDER",
+        "id": 28292
+      },
+      {
+        "fullName": "Liam AYLWARD",
+        "id": 28114
+      },
+      {
+        "fullName": "Pilar AYUSO",
+        "id": 4319
+      },
+      {
+        "fullName": "Roselyne BACHELOT-NARQUIN",
+        "id": 28179
+      },
+      {
+        "fullName": "Peter BACO",
+        "id": 28195
+      },
+      {
+        "fullName": "Maria BADIA i CUTCHET",
+        "id": 28342
+      },
+      {
+        "fullName": "Mariela Velichkova BAEVA",
+        "id": 38606
+      },
+      {
+        "fullName": "Tiberiu BĂRBULEȚIU",
+        "id": 33967
+      },
+      {
+        "fullName": "Enrique BARÓN CRESPO",
+        "id": 1352
+      },
+      {
+        "fullName": "Etelka BARSI-PATAKY",
+        "id": 28136
+      },
+      {
+        "fullName": "Paolo BARTOLOZZI",
+        "id": 21818
+      },
+      {
+        "fullName": "Domenico Antonio BASILE",
+        "id": 72722
+      },
+      {
+        "fullName": "Gerard BATTEN",
+        "id": 28497
+      },
+      {
+        "fullName": "Alessandro BATTILOCCHIO",
+        "id": 28427
+      },
+      {
+        "fullName": "Katerina BATZELI",
+        "id": 28579
+      },
+      {
+        "fullName": "Edit BAUER",
+        "id": 23866
+      },
+      {
+        "fullName": "Daniel BAUTISTA",
+        "id": 96101
+      },
+      {
+        "fullName": "Jean Marie BEAUPUY",
+        "id": 28205
+      },
+      {
+        "fullName": "Christopher BEAZLEY",
+        "id": 1429
+      },
+      {
+        "fullName": "Zsolt László BECSEY",
+        "id": 28138
+      },
+      {
+        "fullName": "Glenn BEDINGFIELD",
+        "id": 94508
+      },
+      {
+        "fullName": "Angelika BEER",
+        "id": 28234
+      },
+      {
+        "fullName": "Panayiotis BEGLITIS",
+        "id": 28580
+      },
+      {
+        "fullName": "Bas BELDER",
+        "id": 4507
+      },
+      {
+        "fullName": "Ivo BELET",
+        "id": 28257
+      },
+      {
+        "fullName": "Irena BELOHORSKÁ",
+        "id": 28196
+      },
+      {
+        "fullName": "Jean-Luc BENNAHMIAS",
+        "id": 28214
+      },
+      {
+        "fullName": "Monika BEŇOVÁ",
+        "id": 23868
+      },
+      {
+        "fullName": "Rolf BEREND",
+        "id": 1842
+      },
+      {
+        "fullName": "Pervenche BERÈS",
+        "id": 1985
+      },
+      {
+        "fullName": "Margrietus van den BERG",
+        "id": 4480
+      },
+      {
+        "fullName": "Maria BERGER",
+        "id": 2285
+      },
+      {
+        "fullName": "Sergio BERLATO",
+        "id": 4746
+      },
+      {
+        "fullName": "Giovanni BERLINGUER",
+        "id": 28369
+      },
+      {
+        "fullName": "Thijs BERMAN",
+        "id": 28174
+      },
+      {
+        "fullName": "Pier Luigi BERSANI",
+        "id": 28329
+      },
+      {
+        "fullName": "Fausto BERTINOTTI",
+        "id": 2023
+      },
+      {
+        "fullName": "Adam BIELAN",
+        "id": 23788
+      },
+      {
+        "fullName": "Slavi BINEV",
+        "id": 38610
+      },
+      {
+        "fullName": "Šarūnas BIRUTIS",
+        "id": 28216
+      },
+      {
+        "fullName": "Georgi BLIZNASHKI",
+        "id": 34230
+      },
+      {
+        "fullName": "Johannes BLOKLAND",
+        "id": 1969
+      },
+      {
+        "fullName": "Godfrey BLOOM",
+        "id": 28513
+      },
+      {
+        "fullName": "Jana BOBOŠÍKOVÁ",
+        "id": 28359
+      },
+      {
+        "fullName": "Sebastian Valentin BODU",
+        "id": 39722
+      },
+      {
+        "fullName": "Reimer BÖGE",
+        "id": 1037
+      },
+      {
+        "fullName": "Jens-Peter BONDE",
+        "id": 1275
+      },
+      {
+        "fullName": "Emma BONINO",
+        "id": 1566
+      },
+      {
+        "fullName": "Guy BONO",
+        "id": 28140
+      },
+      {
+        "fullName": "Vito BONSIGNORE",
+        "id": 29074
+      },
+      {
+        "fullName": "Graham BOOTH",
+        "id": 23286
+      },
+      {
+        "fullName": "Mario BORGHEZIO",
+        "id": 21817
+      },
+      {
+        "fullName": "Josep BORRELL FONTELLES",
+        "id": 28267
+      },
+      {
+        "fullName": "Herbert BÖSCH",
+        "id": 2048
+      },
+      {
+        "fullName": "Erminio Enzo BOSO",
+        "id": 72753
+      },
+      {
+        "fullName": "Umberto BOSSI",
+        "id": 2036
+      },
+      {
+        "fullName": "Victor BOŞTINARU",
+        "id": 39711
+      },
+      {
+        "fullName": "Costas BOTOPOULOS",
+        "id": 39318
+      },
+      {
+        "fullName": "Jean-Louis BOURLANGES",
+        "id": 1026
+      },
+      {
+        "fullName": "Catherine BOURSIER",
+        "id": 58711
+      },
+      {
+        "fullName": "Bernadette BOURZAI",
+        "id": 28143
+      },
+      {
+        "fullName": "Giuseppe BOVA",
+        "id": 41003
+      },
+      {
+        "fullName": "John BOWIS",
+        "id": 4527
+      },
+      {
+        "fullName": "Sharon BOWLES",
+        "id": 33570
+      },
+      {
+        "fullName": "Emine BOZKURT",
+        "id": 28171
+      },
+      {
+        "fullName": "Philip BRADBOURN",
+        "id": 4540
+      },
+      {
+        "fullName": "Iles BRAGHETTO",
+        "id": 34174
+      },
+      {
+        "fullName": "Mihael BREJC",
+        "id": 23713
+      },
+      {
+        "fullName": "Frieda BREPOELS",
+        "id": 28463
+      },
+      {
+        "fullName": "Mercedes BRESSO",
+        "id": 28346
+      },
+      {
+        "fullName": "Hiltrud BREYER",
+        "id": 1059
+      },
+      {
+        "fullName": "Jan BŘEZINA",
+        "id": 28354
+      },
+      {
+        "fullName": "André BRIE",
+        "id": 4298
+      },
+      {
+        "fullName": "Elmar BROK",
+        "id": 1263
+      },
+      {
+        "fullName": "Renato BRUNETTA",
+        "id": 4422
+      },
+      {
+        "fullName": "Danutė BUDREIKAITĖ",
+        "id": 28268
+      },
+      {
+        "fullName": "Paul van BUITENEN",
+        "id": 28264
+      },
+      {
+        "fullName": "Kathalijne Maria BUITENWEG",
+        "id": 4504
+      },
+      {
+        "fullName": "Wolfgang BULFON",
+        "id": 37761
+      },
+      {
+        "fullName": "Udo BULLMANN",
+        "id": 4267
+      },
+      {
+        "fullName": "Nicodim BULZESC",
+        "id": 39720
+      },
+      {
+        "fullName": "Ieke van den BURG",
+        "id": 4483
+      },
+      {
+        "fullName": "Colm BURKE",
+        "id": 38724
+      },
+      {
+        "fullName": "Daniela BURUIANĂ-APRODU",
+        "id": 33966
+      },
+      {
+        "fullName": "Philip BUSHILL-MATTHEWS",
+        "id": 4535
+      },
+      {
+        "fullName": "Niels BUSK",
+        "id": 4442
+      },
+      {
+        "fullName": "Cristian-Silviu BUŞOI",
+        "id": 38420
+      },
+      {
+        "fullName": "Philippe BUSQUIN",
+        "id": 4248
+      },
+      {
+        "fullName": "Simon BUSUTTIL",
+        "id": 28120
+      },
+      {
+        "fullName": "Jerzy BUZEK",
+        "id": 28269
+      },
+      {
+        "fullName": "Milan CABRNOCH",
+        "id": 28324
+      },
+      {
+        "fullName": "Joan CALABUIG RULL",
+        "id": 28322
+      },
+      {
+        "fullName": "Maddalena CALIA",
+        "id": 93776
+      },
+      {
+        "fullName": "Martin CALLANAN",
+        "id": 4536
+      },
+      {
+        "fullName": "Mogens CAMRE",
+        "id": 4439
+      },
+      {
+        "fullName": "Luis Manuel CAPOULAS SANTOS",
+        "id": 28311
+      },
+      {
+        "fullName": "Marco CAPPATO",
+        "id": 4740
+      },
+      {
+        "fullName": "Marie-Arlette CARLOTTI",
+        "id": 2031
+      },
+      {
+        "fullName": "Carlos CARNERO GONZÁLEZ",
+        "id": 1973
+      },
+      {
+        "fullName": "Giorgio CAROLLO",
+        "id": 28415
+      },
+      {
+        "fullName": "David CASA",
+        "id": 28122
+      },
+      {
+        "fullName": "Paulo CASACA",
+        "id": 4447
+      },
+      {
+        "fullName": "Michael CASHMAN",
+        "id": 4532
+      },
+      {
+        "fullName": "Carlo CASINI",
+        "id": 988
+      },
+      {
+        "fullName": "Daniel CASPARY",
+        "id": 28219
+      },
+      {
+        "fullName": "Françoise CASTEX",
+        "id": 28148
+      },
+      {
+        "fullName": "Giuseppe CASTIGLIONE",
+        "id": 28459
+      },
+      {
+        "fullName": "Pilar del CASTILLO VERA",
+        "id": 28390
+      },
+      {
+        "fullName": "Giusto CATANIA",
+        "id": 28979
+      },
+      {
+        "fullName": "Jean-Marie CAVADA",
+        "id": 28206
+      },
+      {
+        "fullName": "Charlotte CEDERSCHIÖLD",
+        "id": 2110
+      },
+      {
+        "fullName": "Alejandro CERCAS",
+        "id": 4337
+      },
+      {
+        "fullName": "Lorenzo CESA",
+        "id": 28451
+      },
+      {
+        "fullName": "Jorgo CHATZIMARKAKIS",
+        "id": 28243
+      },
+      {
+        "fullName": "Mladen Petrov CHERVENYAKOV",
+        "id": 37525
+      },
+      {
+        "fullName": "Giles CHICHESTER",
+        "id": 2097
+      },
+      {
+        "fullName": "Giulietto CHIESA",
+        "id": 28973
+      },
+      {
+        "fullName": "Călin Cătălin CHIRIȚĂ",
+        "id": 95018
+      },
+      {
+        "fullName": "Zdzisław Kazimierz CHMIELEWSKI",
+        "id": 28274
+      },
+      {
+        "fullName": "Ole CHRISTENSEN",
+        "id": 28154
+      },
+      {
+        "fullName": "Christina CHRISTOVA",
+        "id": 34248
+      },
+      {
+        "fullName": "Sylwester CHRUSZCZ",
+        "id": 28325
+      },
+      {
+        "fullName": "Desislav CHUKOLOV",
+        "id": 38603
+      },
+      {
+        "fullName": "Fabio CIANI",
+        "id": 41005
+      },
+      {
+        "fullName": "Silvia CIORNEI",
+        "id": 33995
+      },
+      {
+        "fullName": "Adrian-Mihai CIOROIANU",
+        "id": 33996
+      },
+      {
+        "fullName": "Paolo CIRINO POMICINO",
+        "id": 28978
+      },
+      {
+        "fullName": "Philip CLAEYS",
+        "id": 24030
+      },
+      {
+        "fullName": "Derek Roland CLARK",
+        "id": 28493
+      },
+      {
+        "fullName": "Luigi COCILOVO",
+        "id": 4470
+      },
+      {
+        "fullName": "Carlos COELHO",
+        "id": 1892
+      },
+      {
+        "fullName": "Daniel COHN-BENDIT",
+        "id": 1934
+      },
+      {
+        "fullName": "Trevor COLMAN",
+        "id": 94283
+      },
+      {
+        "fullName": "Richard CORBETT",
+        "id": 2309
+      },
+      {
+        "fullName": "Dorette CORBEY",
+        "id": 4558
+      },
+      {
+        "fullName": "Giovanna CORDA",
+        "id": 39023
+      },
+      {
+        "fullName": "Titus CORLĂȚEAN",
+        "id": 33968
+      },
+      {
+        "fullName": "Thierry CORNILLET",
+        "id": 4338
+      },
+      {
+        "fullName": "Fausto CORREIA",
+        "id": 28309
+      },
+      {
+        "fullName": "Dumitru Gheorghe Mircea COȘEA",
+        "id": 33976
+      },
+      {
+        "fullName": "António COSTA",
+        "id": 28303
+      },
+      {
+        "fullName": "Paolo COSTA",
+        "id": 4747
+      },
+      {
+        "fullName": "Jean Louis COTTIGNY",
+        "id": 2315
+      },
+      {
+        "fullName": "Paul Marie COÛTEAUX",
+        "id": 4383
+      },
+      {
+        "fullName": "Simon COVENEY",
+        "id": 28118
+      },
+      {
+        "fullName": "Michael CRAMER",
+        "id": 28238
+      },
+      {
+        "fullName": "Jan CREMERS",
+        "id": 40818
+      },
+      {
+        "fullName": "Corina CREȚU",
+        "id": 33997
+      },
+      {
+        "fullName": "Gabriela CREȚU",
+        "id": 33977
+      },
+      {
+        "fullName": "Brian CROWLEY",
+        "id": 2109
+      },
+      {
+        "fullName": "Magor Imre CSIBI",
+        "id": 39719
+      },
+      {
+        "fullName": "Marek Aleksander CZARNECKI",
+        "id": 28371
+      },
+      {
+        "fullName": "Ryszard CZARNECKI",
+        "id": 28372
+      },
+      {
+        "fullName": "Hanne DAHL",
+        "id": 40817
+      },
+      {
+        "fullName": "Daniel DĂIANU",
+        "id": 39716
+      },
+      {
+        "fullName": "Massimo D'ALEMA",
+        "id": 28431
+      },
+      {
+        "fullName": "Viorica DĂNCILĂ",
+        "id": 95281
+      },
+      {
+        "fullName": "Joseph DAUL",
+        "id": 4342
+      },
+      {
+        "fullName": "Dragoș Florin DAVID",
+        "id": 39712
+      },
+      {
+        "fullName": "Chris DAVIES",
+        "id": 4554
+      },
+      {
+        "fullName": "Antonio DE BLASIO",
+        "id": 36748
+      },
+      {
+        "fullName": "Bairbre de BRÚN",
+        "id": 28511
+      },
+      {
+        "fullName": "Arūnas DEGUTIS",
+        "id": 28270
+      },
+      {
+        "fullName": "Jean-Luc DEHAENE",
+        "id": 28256
+      },
+      {
+        "fullName": "Véronique DE KEYSER",
+        "id": 22097
+      },
+      {
+        "fullName": "Ottaviano DEL TURCO",
+        "id": 28432
+      },
+      {
+        "fullName": "Panayiotis DEMETRIOU",
+        "id": 23730
+      },
+      {
+        "fullName": "Gianni DE MICHELIS",
+        "id": 28452
+      },
+      {
+        "fullName": "Gábor DEMSZKY",
+        "id": 28203
+      },
+      {
+        "fullName": "Jean-Paul DENANOT",
+        "id": 94282
+      },
+      {
+        "fullName": "Antonio DE POLI",
+        "id": 28417
+      },
+      {
+        "fullName": "Gérard DEPREZ",
+        "id": 1473
+      },
+      {
+        "fullName": "Proinsias DE ROSSA",
+        "id": 1289
+      },
+      {
+        "fullName": "Marielle DE SARNEZ",
+        "id": 4335
+      },
+      {
+        "fullName": "Marie-Hélène DESCAMPS",
+        "id": 22859
+      },
+      {
+        "fullName": "Harlem DÉSIR",
+        "id": 4318
+      },
+      {
+        "fullName": "Albert DESS",
+        "id": 28228
+      },
+      {
+        "fullName": "Nirj DEVA",
+        "id": 4556
+      },
+      {
+        "fullName": "Christine DE VEYRAC",
+        "id": 4347
+      },
+      {
+        "fullName": "Mia DE VITS",
+        "id": 28259
+      },
+      {
+        "fullName": "Agustín DÍAZ DE MERA GARCÍA CONSUEGRA",
+        "id": 28397
+      },
+      {
+        "fullName": "Jolanta DIČKUTĖ",
+        "id": 28272
+      },
+      {
+        "fullName": "Gintaras DIDŽIOKAS",
+        "id": 23747
+      },
+      {
+        "fullName": "Rosa DÍEZ GONZÁLEZ",
+        "id": 4327
+      },
+      {
+        "fullName": "Koenraad DILLEN",
+        "id": 24029
+      },
+      {
+        "fullName": "Giorgos DIMITRAKOPOULOS",
+        "id": 2185
+      },
+      {
+        "fullName": "Konstantin DIMITROV",
+        "id": 37488
+      },
+      {
+        "fullName": "Martin DIMITROV",
+        "id": 34252
+      },
+      {
+        "fullName": "Philip Dimitrov DIMITROV",
+        "id": 37526
+      },
+      {
+        "fullName": "Vasile DÎNCU",
+        "id": 33998
+      },
+      {
+        "fullName": "Armando DIONISI",
+        "id": 28426
+      },
+      {
+        "fullName": "Antonio DI PIETRO",
+        "id": 4404
+      },
+      {
+        "fullName": "Alexandra DOBOLYI",
+        "id": 28637
+      },
+      {
+        "fullName": "Valdis DOMBROVSKIS",
+        "id": 28618
+      },
+      {
+        "fullName": "Beniamino DONNICI",
+        "id": 38399
+      },
+      {
+        "fullName": "Bert DOORN",
+        "id": 4500
+      },
+      {
+        "fullName": "Brigitte DOUAY",
+        "id": 28157
+      },
+      {
+        "fullName": "Den DOVER",
+        "id": 4552
+      },
+      {
+        "fullName": "Avril DOYLE",
+        "id": 4382
+      },
+      {
+        "fullName": "Mojca DRČAR MURKO",
+        "id": 28305
+      },
+      {
+        "fullName": "Konstantinos DROUTSAS",
+        "id": 58782
+      },
+      {
+        "fullName": "Petr DUCHOŇ",
+        "id": 28315
+      },
+      {
+        "fullName": "Andrew DUFF",
+        "id": 4514
+      },
+      {
+        "fullName": "Bárbara DÜHRKOP DÜHRKOP",
+        "id": 1313
+      },
+      {
+        "fullName": "Garrelt DUIN",
+        "id": 5969
+      },
+      {
+        "fullName": "Árpád DUKA-ZÓLYOMI",
+        "id": 28197
+      },
+      {
+        "fullName": "Cristian DUMITRESCU",
+        "id": 33978
+      },
+      {
+        "fullName": "Constantin DUMITRIU",
+        "id": 39718
+      },
+      {
+        "fullName": "Antoine DUQUESNE",
+        "id": 28841
+      },
+      {
+        "fullName": "Michl EBNER",
+        "id": 2075
+      },
+      {
+        "fullName": "Christian EHLER",
+        "id": 28226
+      },
+      {
+        "fullName": "Lena EK",
+        "id": 28127
+      },
+      {
+        "fullName": "Saïd EL KHADRAOUI",
+        "id": 25718
+      },
+      {
+        "fullName": "James ELLES",
+        "id": 1419
+      },
+      {
+        "fullName": "Maria da Assunção ESTEVES",
+        "id": 28401
+      },
+      {
+        "fullName": "Edite ESTRELA",
+        "id": 28310
+      },
+      {
+        "fullName": "Harald ETTL",
+        "id": 2286
+      },
+      {
+        "fullName": "Camiel EURLINGS",
+        "id": 28163
+      },
+      {
+        "fullName": "Jill EVANS",
+        "id": 4550
+      },
+      {
+        "fullName": "Jonathan EVANS",
+        "id": 4549
+      },
+      {
+        "fullName": "Robert EVANS",
+        "id": 2099
+      },
+      {
+        "fullName": "Hynek FAJMON",
+        "id": 23695
+      },
+      {
+        "fullName": "Richard FALBR",
+        "id": 23840
+      },
+      {
+        "fullName": "Nigel FARAGE",
+        "id": 4525
+      },
+      {
+        "fullName": "Göran FÄRM",
+        "id": 4265
+      },
+      {
+        "fullName": "Carlo FATUZZO",
+        "id": 4413
+      },
+      {
+        "fullName": "Claudio FAVA",
+        "id": 4469
+      },
+      {
+        "fullName": "Szabolcs FAZAKAS",
+        "id": 23804
+      },
+      {
+        "fullName": "Markus FERBER",
+        "id": 1917
+      },
+      {
+        "fullName": "Emanuel Jardim FERNANDES",
+        "id": 28318
+      },
+      {
+        "fullName": "Fernando FERNÁNDEZ MARTÍN",
+        "id": 2012
+      },
+      {
+        "fullName": "Francesco FERRARI",
+        "id": 38849
+      },
+      {
+        "fullName": "Anne FERREIRA",
+        "id": 5735
+      },
+      {
+        "fullName": "Elisa FERREIRA",
+        "id": 28308
+      },
+      {
+        "fullName": "Ilda FIGUEIREDO",
+        "id": 4466
+      },
+      {
+        "fullName": "Petru FILIP",
+        "id": 39710
+      },
+      {
+        "fullName": "Roberto FIORE",
+        "id": 41004
+      },
+      {
+        "fullName": "Christofer FJELLNER",
+        "id": 28126
+      },
+      {
+        "fullName": "Věra FLASAROVÁ",
+        "id": 28336
+      },
+      {
+        "fullName": "Hélène FLAUTRE",
+        "id": 4385
+      },
+      {
+        "fullName": "Karl-Heinz FLORENZ",
+        "id": 1038
+      },
+      {
+        "fullName": "Alessandro FOGLIETTA",
+        "id": 28425
+      },
+      {
+        "fullName": "Hanna FOLTYN-KUBICKA",
+        "id": 34930
+      },
+      {
+        "fullName": "Nicole FONTAINE",
+        "id": 945
+      },
+      {
+        "fullName": "Glyn FORD",
+        "id": 1413
+      },
+      {
+        "fullName": "Anna FOTYGA",
+        "id": 28353
+      },
+      {
+        "fullName": "Brigitte FOURÉ",
+        "id": 39956
+      },
+      {
+        "fullName": "Janelly FOURTOU",
+        "id": 4336
+      },
+      {
+        "fullName": "Carmen FRAGA ESTÉVEZ",
+        "id": 1993
+      },
+      {
+        "fullName": "Juan FRAILE CANTÓN",
+        "id": 40600
+      },
+      {
+        "fullName": "Armando FRANÇA",
+        "id": 39510
+      },
+      {
+        "fullName": "Monica FRASSONI",
+        "id": 4254
+      },
+      {
+        "fullName": "Duarte FREITAS",
+        "id": 28403
+      },
+      {
+        "fullName": "Ingo FRIEDRICH",
+        "id": 1264
+      },
+      {
+        "fullName": "Sorin FRUNZĂVERDE",
+        "id": 39708
+      },
+      {
+        "fullName": "Jean-Claude FRUTEAU",
+        "id": 4297
+      },
+      {
+        "fullName": "Daniel Petru FUNERIU",
+        "id": 95020
+      },
+      {
+        "fullName": "Corrado GABRIELE",
+        "id": 36391
+      },
+      {
+        "fullName": "Urszula GACEK",
+        "id": 39763
+      },
+      {
+        "fullName": "Michael GAHLER",
+        "id": 2341
+      },
+      {
+        "fullName": "Kinga GÁL",
+        "id": 28150
+      },
+      {
+        "fullName": "Milan GAĽA",
+        "id": 26833
+      },
+      {
+        "fullName": "Gerardo GALEOTE",
+        "id": 2001
+      },
+      {
+        "fullName": "Ovidiu Victor GANȚ",
+        "id": 33979
+      },
+      {
+        "fullName": "Vicente Miguel GARCÉS RAMÓN",
+        "id": 39321
+      },
+      {
+        "fullName": "José Manuel GARCÍA-MARGALLO Y MARFIL",
+        "id": 1992
+      },
+      {
+        "fullName": "Iratxe GARCÍA PÉREZ",
+        "id": 28298
+      },
+      {
+        "fullName": "Elisabetta GARDINI",
+        "id": 58758
+      },
+      {
+        "fullName": "Giuseppe GARGANI",
+        "id": 4562
+      },
+      {
+        "fullName": "Salvador GARRIGA POLLEDO",
+        "id": 1665
+      },
+      {
+        "fullName": "Patrick GAUBERT",
+        "id": 28183
+      },
+      {
+        "fullName": "Jean-Paul GAUZÈS",
+        "id": 28193
+      },
+      {
+        "fullName": "Jas GAWRONSKI",
+        "id": 1113
+      },
+      {
+        "fullName": "Evelyne GEBHARDT",
+        "id": 1913
+      },
+      {
+        "fullName": "Eugenijus GENTVILAS",
+        "id": 28283
+      },
+      {
+        "fullName": "Georgios GEORGIOU",
+        "id": 39320
+      },
+      {
+        "fullName": "Bronisław GEREMEK",
+        "id": 28384
+      },
+      {
+        "fullName": "Lidia Joanna GERINGER DE OEDENBERG",
+        "id": 28377
+      },
+      {
+        "fullName": "Roland GEWALT",
+        "id": 34757
+      },
+      {
+        "fullName": "Claire GIBAULT",
+        "id": 28207
+      },
+      {
+        "fullName": "Adam GIEREK",
+        "id": 28379
+      },
+      {
+        "fullName": "Maciej Marian GIERTYCH",
+        "id": 24088
+      },
+      {
+        "fullName": "Neena GILL",
+        "id": 4533
+      },
+      {
+        "fullName": "Monica GIUNTINI",
+        "id": 94391
+      },
+      {
+        "fullName": "Ioannis GKLAVAKIS",
+        "id": 28570
+      },
+      {
+        "fullName": "Norbert GLANTE",
+        "id": 1902
+      },
+      {
+        "fullName": "Béla GLATTFELDER",
+        "id": 28145
+      },
+      {
+        "fullName": "Gian Paolo GOBBO",
+        "id": 4741
+      },
+      {
+        "fullName": "Robert GOEBBELS",
+        "id": 4429
+      },
+      {
+        "fullName": "Lutz GOEPEL",
+        "id": 1845
+      },
+      {
+        "fullName": "Bogdan GOLIK",
+        "id": 28373
+      },
+      {
+        "fullName": "Bruno GOLLNISCH",
+        "id": 1164
+      },
+      {
+        "fullName": "Ana GOMES",
+        "id": 28306
+      },
+      {
+        "fullName": "Alfred GOMOLKA",
+        "id": 1923
+      },
+      {
+        "fullName": "Donata GOTTARDI",
+        "id": 36395
+      },
+      {
+        "fullName": "Hélène GOUDIN",
+        "id": 28146
+      },
+      {
+        "fullName": "Genowefa GRABOWSKA",
+        "id": 23717
+      },
+      {
+        "fullName": "Dariusz Maciej GRABOWSKI",
+        "id": 28332
+      },
+      {
+        "fullName": "Vasco GRAÇA MOURA",
+        "id": 4450
+      },
+      {
+        "fullName": "Friedrich-Wilhelm GRAEFE zu BARINGDORF",
+        "id": 1040
+      },
+      {
+        "fullName": "Luis de GRANDES PASCUAL",
+        "id": 28393
+      },
+      {
+        "fullName": "Ingeborg GRÄSSLE",
+        "id": 28220
+      },
+      {
+        "fullName": "Martí GRAU i SEGÚ",
+        "id": 40601
+      },
+      {
+        "fullName": "Louis GRECH",
+        "id": 28123
+      },
+      {
+        "fullName": "Nathalie GRIESBECK",
+        "id": 28208
+      },
+      {
+        "fullName": "Elly de GROEN-KOUWENHOVEN",
+        "id": 28265
+      },
+      {
+        "fullName": "Lissy GRÖNER",
+        "id": 1061
+      },
+      {
+        "fullName": "Matthias GROOTE",
+        "id": 34728
+      },
+      {
+        "fullName": "Mathieu GROSCH",
+        "id": 2247
+      },
+      {
+        "fullName": "Françoise GROSSETÊTE",
+        "id": 2025
+      },
+      {
+        "fullName": "Lilli GRUBER",
+        "id": 28368
+      },
+      {
+        "fullName": "Ignasi GUARDANS CAMBÓ",
+        "id": 28411
+      },
+      {
+        "fullName": "Ambroise GUELLEC",
+        "id": 28194
+      },
+      {
+        "fullName": "Pedro GUERREIRO",
+        "id": 31123
+      },
+      {
+        "fullName": "Umberto GUIDONI",
+        "id": 28974
+      },
+      {
+        "fullName": "Zita GURMAI",
+        "id": 23805
+      },
+      {
+        "fullName": "Cristina GUTIÉRREZ-CORTINES",
+        "id": 4326
+      },
+      {
+        "fullName": "Catherine GUY-QUINT",
+        "id": 4314
+      },
+      {
+        "fullName": "András GYÜRK",
+        "id": 23816
+      },
+      {
+        "fullName": "Fiona HALL",
+        "id": 28477
+      },
+      {
+        "fullName": "Ioan Lucian HĂMBĂȘAN",
+        "id": 95704
+      },
+      {
+        "fullName": "David HAMMERSTEIN",
+        "id": 28345
+      },
+      {
+        "fullName": "Benoît HAMON",
+        "id": 28159
+      },
+      {
+        "fullName": "Małgorzata HANDZLIK",
+        "id": 28275
+      },
+      {
+        "fullName": "Daniel HANNAN",
+        "id": 4555
+      },
+      {
+        "fullName": "Klaus HÄNSCH",
+        "id": 1266
+      },
+      {
+        "fullName": "Gábor HARANGOZÓ",
+        "id": 28199
+      },
+      {
+        "fullName": "Malcolm HARBOUR",
+        "id": 4538
+      },
+      {
+        "fullName": "Marian HARKIN",
+        "id": 28116
+      },
+      {
+        "fullName": "Rebecca HARMS",
+        "id": 28233
+      },
+      {
+        "fullName": "Joel HASSE FERREIRA",
+        "id": 31730
+      },
+      {
+        "fullName": "Satu HASSI",
+        "id": 28321
+      },
+      {
+        "fullName": "Konstantinos HATZIDAKIS",
+        "id": 2186
+      },
+      {
+        "fullName": "Jutta HAUG",
+        "id": 1914
+      },
+      {
+        "fullName": "Adeline HAZAN",
+        "id": 4299
+      },
+      {
+        "fullName": "Christopher HEATON-HARRIS",
+        "id": 4517
+      },
+      {
+        "fullName": "Anna HEDH",
+        "id": 28131
+      },
+      {
+        "fullName": "Ewa HEDKVIST PETERSEN",
+        "id": 4266
+      },
+      {
+        "fullName": "Gyula HEGYI",
+        "id": 23806
+      },
+      {
+        "fullName": "Eduard-Raul HELLVIG",
+        "id": 37448
+      },
+      {
+        "fullName": "Roger HELMER",
+        "id": 4516
+      },
+      {
+        "fullName": "Jacky HÉNIN",
+        "id": 28215
+      },
+      {
+        "fullName": "Erna HENNICOT-SCHOEPGES",
+        "id": 29019
+      },
+      {
+        "fullName": "Jeanine HENNIS-PLASSCHAERT",
+        "id": 28176
+      },
+      {
+        "fullName": "Edit HERCZOG",
+        "id": 28155
+      },
+      {
+        "fullName": "Esther HERRANZ GARCÍA",
+        "id": 22418
+      },
+      {
+        "fullName": "Luis HERRERO-TEJEDOR",
+        "id": 28396
+      },
+      {
+        "fullName": "Ruth HIERONYMI",
+        "id": 4279
+      },
+      {
+        "fullName": "Jim HIGGINS",
+        "id": 28117
+      },
+      {
+        "fullName": "Gunnar HÖKMARK",
+        "id": 28124
+      },
+      {
+        "fullName": "Jens HOLM",
+        "id": 37008
+      },
+      {
+        "fullName": "Krzysztof HOŁOWCZYC",
+        "id": 39764
+      },
+      {
+        "fullName": "Mary HONEYBALL",
+        "id": 5846
+      },
+      {
+        "fullName": "Karsten Friedrich HOPPENSTEDT",
+        "id": 1222
+      },
+      {
+        "fullName": "Milan HORÁČEK",
+        "id": 28239
+      },
+      {
+        "fullName": "Brice HORTEFEUX",
+        "id": 5565
+      },
+      {
+        "fullName": "Richard HOWITT",
+        "id": 2073
+      },
+      {
+        "fullName": "Ján HUDACKÝ",
+        "id": 28180
+      },
+      {
+        "fullName": "Ian HUDGHTON",
+        "id": 2338
+      },
+      {
+        "fullName": "Stephen HUGHES",
+        "id": 1407
+      },
+      {
+        "fullName": "Christopher HUHNE",
+        "id": 4523
+      },
+      {
+        "fullName": "Alain HUTCHINSON",
+        "id": 28282
+      },
+      {
+        "fullName": "Jana HYBÁŠKOVÁ",
+        "id": 28350
+      },
+      {
+        "fullName": "Filiz HYUSMENOVA",
+        "id": 34249
+      },
+      {
+        "fullName": "Monica Maria IACOB-RIDZI",
+        "id": 33987
+      },
+      {
+        "fullName": "Anna IBRISAGIC",
+        "id": 28125
+      },
+      {
+        "fullName": "Stanimir ILCHEV",
+        "id": 34235
+      },
+      {
+        "fullName": "Toomas Hendrik ILVES",
+        "id": 23860
+      },
+      {
+        "fullName": "Sophia IN 'T VELD",
+        "id": 28266
+      },
+      {
+        "fullName": "Iliana IOTOVA",
+        "id": 38605
+      },
+      {
+        "fullName": "Mikel IRUJO AMEZAGA",
+        "id": 38733
+      },
+      {
+        "fullName": "Marie Anne ISLER BÉGUIN",
+        "id": 1833
+      },
+      {
+        "fullName": "Ville ITÄLÄ",
+        "id": 28313
+      },
+      {
+        "fullName": "Carlos ITURGAIZ",
+        "id": 28398
+      },
+      {
+        "fullName": "Anneli JÄÄTTEENMÄKI",
+        "id": 28314
+      },
+      {
+        "fullName": "Caroline JACKSON",
+        "id": 1370
+      },
+      {
+        "fullName": "Lily JACOBS",
+        "id": 39094
+      },
+      {
+        "fullName": "Stanisław JAŁOWIECKI",
+        "id": 28277
+      },
+      {
+        "fullName": "Mieczysław Edmund JANOWSKI",
+        "id": 28355
+      },
+      {
+        "fullName": "Lívia JÁRÓKA",
+        "id": 28141
+      },
+      {
+        "fullName": "Georg JARZEMBOWSKI",
+        "id": 1
+      },
+      {
+        "fullName": "Elisabeth JEGGLE",
+        "id": 4271
+      },
+      {
+        "fullName": "Rumiana JELEVA",
+        "id": 38609
+      },
+      {
+        "fullName": "Anne E. JENSEN",
+        "id": 4440
+      },
+      {
+        "fullName": "Bernat JOAN i MARÍ",
+        "id": 28412
+      },
+      {
+        "fullName": "Pierre JONCKHEER",
+        "id": 4255
+      },
+      {
+        "fullName": "Karin JÖNS",
+        "id": 1904
+      },
+      {
+        "fullName": "Romana JORDAN",
+        "id": 28291
+      },
+      {
+        "fullName": "Dan JØRGENSEN",
+        "id": 28156
+      },
+      {
+        "fullName": "Madeleine JOUYE DE GRANDMAISON",
+        "id": 39629
+      },
+      {
+        "fullName": "Aurelio JURI",
+        "id": 94577
+      },
+      {
+        "fullName": "Jelko KACIN",
+        "id": 23691
+      },
+      {
+        "fullName": "Filip KACZMAREK",
+        "id": 28280
+      },
+      {
+        "fullName": "Gisela KALLENBACH",
+        "id": 28236
+      },
+      {
+        "fullName": "Syed KAMALL",
+        "id": 33569
+      },
+      {
+        "fullName": "Michał Tomasz KAMIŃSKI",
+        "id": 23792
+      },
+      {
+        "fullName": "Othmar KARAS",
+        "id": 4246
+      },
+      {
+        "fullName": "Georgios KARATZAFERIS",
+        "id": 28587
+      },
+      {
+        "fullName": "Sajjad KARIM",
+        "id": 28481
+      },
+      {
+        "fullName": "Ioannis KASOULIDES",
+        "id": 28474
+      },
+      {
+        "fullName": "Martin KASTLER",
+        "id": 25919
+      },
+      {
+        "fullName": "Sylvia-Yvonne KAUFMANN",
+        "id": 1849
+      },
+      {
+        "fullName": "Piia-Noora KAUPPI",
+        "id": 4258
+      },
+      {
+        "fullName": "Metin KAZAK",
+        "id": 38613
+      },
+      {
+        "fullName": "Tchetin KAZAK",
+        "id": 34251
+      },
+      {
+        "fullName": "Tunne KELAM",
+        "id": 28424
+      },
+      {
+        "fullName": "Atilla Béla Ladislau KELEMEN",
+        "id": 33981
+      },
+      {
+        "fullName": "Robert KILROY-SILK",
+        "id": 28492
+      },
+      {
+        "fullName": "Heinz KINDERMANN",
+        "id": 1905
+      },
+      {
+        "fullName": "Glenys KINNOCK",
+        "id": 2123
+      },
+      {
+        "fullName": "Evgeni KIRILOV",
+        "id": 34231
+      },
+      {
+        "fullName": "Timothy KIRKHOPE",
+        "id": 4542
+      },
+      {
+        "fullName": "Ewa KLAMT",
+        "id": 4278
+      },
+      {
+        "fullName": "Christa KLASS",
+        "id": 1929
+      },
+      {
+        "fullName": "Bogdan KLICH",
+        "id": 23780
+      },
+      {
+        "fullName": "Wolf KLINZ",
+        "id": 28244
+      },
+      {
+        "fullName": "Roger KNAPMAN",
+        "id": 28505
+      },
+      {
+        "fullName": "Dieter-Lebrecht KOCH",
+        "id": 1852
+      },
+      {
+        "fullName": "Silvana KOCH-MEHRIN",
+        "id": 28241
+      },
+      {
+        "fullName": "Jaromír KOHLÍČEK",
+        "id": 28331
+      },
+      {
+        "fullName": "Christoph KONRAD",
+        "id": 2225
+      },
+      {
+        "fullName": "Sándor KÓNYA-HAMAR",
+        "id": 33988
+      },
+      {
+        "fullName": "Maria Eleni KOPPA",
+        "id": 39319
+      },
+      {
+        "fullName": "Eija-Riitta KORHOLA",
+        "id": 4260
+      },
+      {
+        "fullName": "Magda KÓSÁNÉ KOVÁCS",
+        "id": 23807
+      },
+      {
+        "fullName": "Miloš KOTEREC",
+        "id": 28181
+      },
+      {
+        "fullName": "Sergej KOZLÍK",
+        "id": 23873
+      },
+      {
+        "fullName": "Holger KRAHMER",
+        "id": 28247
+      },
+      {
+        "fullName": "Ole KRARUP",
+        "id": 1919
+      },
+      {
+        "fullName": "Guntars KRASTS",
+        "id": 26828
+      },
+      {
+        "fullName": "Rodi KRATSA-TSAGAROPOULOU",
+        "id": 4482
+      },
+      {
+        "fullName": "Constanze KREHL",
+        "id": 1854
+      },
+      {
+        "fullName": "Wolfgang KREISSL-DÖRFLER",
+        "id": 1935
+      },
+      {
+        "fullName": "Henrik Dam KRISTENSEN",
+        "id": 28152
+      },
+      {
+        "fullName": "Ģirts Valdis KRISTOVSKIS",
+        "id": 28616
+      },
+      {
+        "fullName": "Urszula KRUPA",
+        "id": 28334
+      },
+      {
+        "fullName": "Wiesław Stefan KUC",
+        "id": 28374
+      },
+      {
+        "fullName": "Barbara KUDRYCKA",
+        "id": 28284
+      },
+      {
+        "fullName": "Helmut KUHNE",
+        "id": 1908
+      },
+      {
+        "fullName": "Jan Jerzy KUŁAKOWSKI",
+        "id": 28386
+      },
+      {
+        "fullName": "Aldis KUŠĶIS",
+        "id": 23853
+      },
+      {
+        "fullName": "Sepp KUSSTATSCHER",
+        "id": 28418
+      },
+      {
+        "fullName": "Zbigniew KUŹMIUK",
+        "id": 28389
+      },
+      {
+        "fullName": "Joost LAGENDIJK",
+        "id": 2329
+      },
+      {
+        "fullName": "André LAIGNEL",
+        "id": 1980
+      },
+      {
+        "fullName": "Alain LAMASSOURE",
+        "id": 1204
+      },
+      {
+        "fullName": "Jean LAMBERT",
+        "id": 4531
+      },
+      {
+        "fullName": "Stavros LAMBRINIDIS",
+        "id": 28576
+      },
+      {
+        "fullName": "Alexander Graf LAMBSDORFF",
+        "id": 28242
+      },
+      {
+        "fullName": "Vytautas LANDSBERGIS",
+        "id": 23746
+      },
+      {
+        "fullName": "Carl LANG",
+        "id": 2057
+      },
+      {
+        "fullName": "Esther de LANGE",
+        "id": 38398
+      },
+      {
+        "fullName": "Werner LANGEN",
+        "id": 1928
+      },
+      {
+        "fullName": "Raymond LANGENDRIES",
+        "id": 28842
+      },
+      {
+        "fullName": "Anne LAPERROUZE",
+        "id": 28209
+      },
+      {
+        "fullName": "Romano Maria LA RUSSA",
+        "id": 28416
+      },
+      {
+        "fullName": "Armin LASCHET",
+        "id": 4280
+      },
+      {
+        "fullName": "Kurt Joachim LAUK",
+        "id": 28222
+      },
+      {
+        "fullName": "Vincenzo LAVARRA",
+        "id": 4455
+      },
+      {
+        "fullName": "Henrik LAX",
+        "id": 28262
+      },
+      {
+        "fullName": "Johannes LEBECH",
+        "id": 39762
+      },
+      {
+        "fullName": "Kurt LECHNER",
+        "id": 4283
+      },
+      {
+        "fullName": "Stéphane LE FOLL",
+        "id": 28162
+      },
+      {
+        "fullName": "Roselyne LEFRANÇOIS",
+        "id": 38846
+      },
+      {
+        "fullName": "Bernard LEHIDEUX",
+        "id": 2326
+      },
+      {
+        "fullName": "Klaus-Heiner LEHNE",
+        "id": 2224
+      },
+      {
+        "fullName": "Lasse LEHTINEN",
+        "id": 28263
+      },
+      {
+        "fullName": "Jörg LEICHTFRIED",
+        "id": 28251
+      },
+      {
+        "fullName": "Jo LEINEN",
+        "id": 4262
+      },
+      {
+        "fullName": "Innocenzo LEONTINI",
+        "id": 72754
+      },
+      {
+        "fullName": "Jean-Marie LE PEN",
+        "id": 1023
+      },
+      {
+        "fullName": "Marine LE PEN",
+        "id": 28210
+      },
+      {
+        "fullName": "Fernand LE RACHINEL",
+        "id": 2066
+      },
+      {
+        "fullName": "Enrico LETTA",
+        "id": 28413
+      },
+      {
+        "fullName": "Katalin LÉVAI",
+        "id": 28200
+      },
+      {
+        "fullName": "Janusz LEWANDOWSKI",
+        "id": 23781
+      },
+      {
+        "fullName": "Bogusław LIBERADZKI",
+        "id": 23768
+      },
+      {
+        "fullName": "Marcin LIBICKI",
+        "id": 24087
+      },
+      {
+        "fullName": "Eva LICHTENBERGER",
+        "id": 28253
+      },
+      {
+        "fullName": "Marie-Noëlle LIENEMANN",
+        "id": 1708
+      },
+      {
+        "fullName": "Liene LIEPIŅA",
+        "id": 23852
+      },
+      {
+        "fullName": "Peter LIESE",
+        "id": 1927
+      },
+      {
+        "fullName": "Kartika Tamara LIOTARD",
+        "id": 28182
+      },
+      {
+        "fullName": "Alain LIPIETZ",
+        "id": 4384
+      },
+      {
+        "fullName": "Pia Elda LOCATELLI",
+        "id": 28976
+      },
+      {
+        "fullName": "Eleonora LO CURTO",
+        "id": 93515
+      },
+      {
+        "fullName": "Raffaele LOMBARDO",
+        "id": 4472
+      },
+      {
+        "fullName": "Antonio LÓPEZ-ISTÚRIZ WHITE",
+        "id": 28399
+      },
+      {
+        "fullName": "Andrea LOSCO",
+        "id": 36393
+      },
+      {
+        "fullName": "Patrick LOUIS",
+        "id": 28217
+      },
+      {
+        "fullName": "Caroline LUCAS",
+        "id": 4524
+      },
+      {
+        "fullName": "Baroness Sarah LUDFORD",
+        "id": 4529
+      },
+      {
+        "fullName": "Astrid LULLING",
+        "id": 1186
+      },
+      {
+        "fullName": "Nils LUNDGREN",
+        "id": 28142
+      },
+      {
+        "fullName": "Florencio LUQUE AGUILAR",
+        "id": 40602
+      },
+      {
+        "fullName": "Elizabeth LYNNE",
+        "id": 4541
+      },
+      {
+        "fullName": "Marusya LYUBCHEVA",
+        "id": 37524
+      },
+      {
+        "fullName": "Albert Jan MAAT",
+        "id": 4492
+      },
+      {
+        "fullName": "Jules MAATEN",
+        "id": 4501
+      },
+      {
+        "fullName": "Linda McAVAN",
+        "id": 2327
+      },
+      {
+        "fullName": "Arlene McCARTHY",
+        "id": 2173
+      },
+      {
+        "fullName": "Mary Lou McDONALD",
+        "id": 28111
+      },
+      {
+        "fullName": "Mairead McGUINNESS",
+        "id": 28115
+      },
+      {
+        "fullName": "Edward MCMILLAN-SCOTT",
+        "id": 1405
+      },
+      {
+        "fullName": "Jamila MADEIRA",
+        "id": 28317
+      },
+      {
+        "fullName": "Eugenijus MALDEIKIS",
+        "id": 23745
+      },
+      {
+        "fullName": "Cecilia MALMSTRÖM",
+        "id": 4273
+      },
+      {
+        "fullName": "Antonius MANDERS",
+        "id": 4560
+      },
+      {
+        "fullName": "Ramona Nicole MĂNESCU",
+        "id": 39717
+      },
+      {
+        "fullName": "Vladimír MAŇKA",
+        "id": 28192
+      },
+      {
+        "fullName": "Erika MANN",
+        "id": 1898
+      },
+      {
+        "fullName": "Thomas MANN",
+        "id": 1922
+      },
+      {
+        "fullName": "Diamanto MANOLAKOU",
+        "id": 28585
+      },
+      {
+        "fullName": "Adrian MANOLE",
+        "id": 95016
+      },
+      {
+        "fullName": "Mario MANTOVANI",
+        "id": 4395
+      },
+      {
+        "fullName": "Marian-Jean MARINESCU",
+        "id": 33982
+      },
+      {
+        "fullName": "Catiuscia MARINI",
+        "id": 41006
+      },
+      {
+        "fullName": "Helmuth MARKOV",
+        "id": 4303
+      },
+      {
+        "fullName": "Sérgio MARQUES",
+        "id": 4452
+      },
+      {
+        "fullName": "Maria MARTENS",
+        "id": 4559
+      },
+      {
+        "fullName": "David MARTIN",
+        "id": 1403
+      },
+      {
+        "fullName": "Hans-Peter MARTIN",
+        "id": 4238
+      },
+      {
+        "fullName": "Jean-Claude MARTINEZ",
+        "id": 966
+      },
+      {
+        "fullName": "Miguel Angel MARTÍNEZ MARTÍNEZ",
+        "id": 4346
+      },
+      {
+        "fullName": "Jan Tadeusz MASIEL",
+        "id": 28375
+      },
+      {
+        "fullName": "Antonio MASIP HIDALGO",
+        "id": 28338
+      },
+      {
+        "fullName": "Jiří MAŠTÁLKA",
+        "id": 23704
+      },
+      {
+        "fullName": "Edith MASTENBROEK",
+        "id": 28169
+      },
+      {
+        "fullName": "Véronique MATHIEU HOUILLON",
+        "id": 4412
+      },
+      {
+        "fullName": "Ana MATO ADROVER",
+        "id": 28383
+      },
+      {
+        "fullName": "Marios MATSAKIS",
+        "id": 23881
+      },
+      {
+        "fullName": "Yiannakis MATSIS",
+        "id": 28516
+      },
+      {
+        "fullName": "Maria MATSOUKA",
+        "id": 28575
+      },
+      {
+        "fullName": "Iosif MATULA",
+        "id": 95017
+      },
+      {
+        "fullName": "Mario MAURO",
+        "id": 4393
+      },
+      {
+        "fullName": "Manolis MAVROMMATIS",
+        "id": 28574
+      },
+      {
+        "fullName": "Hans-Peter MAYER",
+        "id": 4275
+      },
+      {
+        "fullName": "Jaime MAYOR OREJA",
+        "id": 28362
+      },
+      {
+        "fullName": "Manuel MEDINA ORTEGA",
+        "id": 1337
+      },
+      {
+        "fullName": "Erik MEIJER",
+        "id": 4508
+      },
+      {
+        "fullName": "Íñigo MÉNDEZ DE VIGO",
+        "id": 1873
+      },
+      {
+        "fullName": "Emilio MENÉNDEZ del VALLE",
+        "id": 4348
+      },
+      {
+        "fullName": "Willy MEYER",
+        "id": 28407
+      },
+      {
+        "fullName": "Rosa MIGUÉLEZ RAMOS",
+        "id": 4349
+      },
+      {
+        "fullName": "Eugen MIHĂESCU",
+        "id": 34000
+      },
+      {
+        "fullName": "Dan MIHALACHE",
+        "id": 36696
+      },
+      {
+        "fullName": "Marianne MIKKO",
+        "id": 28421
+      },
+      {
+        "fullName": "Miroslav MIKOLÁŠIK",
+        "id": 28178
+      },
+      {
+        "fullName": "Francisco José MILLÁN MON",
+        "id": 28400
+      },
+      {
+        "fullName": "Gay MITCHELL",
+        "id": 28112
+      },
+      {
+        "fullName": "Nickolay MLADENOV",
+        "id": 38607
+      },
+      {
+        "fullName": "Viktória MOHÁCSI",
+        "id": 30099
+      },
+      {
+        "fullName": "Viorica-Pompilia-Georgeta MOISUC",
+        "id": 37450
+      },
+      {
+        "fullName": "Andreas MÖLZER",
+        "id": 28255
+      },
+      {
+        "fullName": "Cristobal MONTORO ROMERO",
+        "id": 28385
+      },
+      {
+        "fullName": "Claude MORAES",
+        "id": 4519
+      },
+      {
+        "fullName": "Javier MORENO SÁNCHEZ",
+        "id": 28347
+      },
+      {
+        "fullName": "Eluned MORGAN",
+        "id": 2171
+      },
+      {
+        "fullName": "Luisa MORGANTINI",
+        "id": 4453
+      },
+      {
+        "fullName": "Philippe MORILLON",
+        "id": 4332
+      },
+      {
+        "fullName": "Elisabeth MORIN-CHARTIER",
+        "id": 38596
+      },
+      {
+        "fullName": "Alexandru-Ioan MORȚUN",
+        "id": 34482
+      },
+      {
+        "fullName": "Pierre MOSCOVICI",
+        "id": 1983
+      },
+      {
+        "fullName": "Ashley MOTE",
+        "id": 28507
+      },
+      {
+        "fullName": "Jan MULDER",
+        "id": 1965
+      },
+      {
+        "fullName": "Roberto MUSACCHIO",
+        "id": 28977
+      },
+      {
+        "fullName": "Cristiana MUSCARDINI",
+        "id": 1073
+      },
+      {
+        "fullName": "Joseph MUSCAT",
+        "id": 28121
+      },
+      {
+        "fullName": "Francesco MUSOTTO",
+        "id": 4471
+      },
+      {
+        "fullName": "Antonio MUSSA",
+        "id": 21951
+      },
+      {
+        "fullName": "Alessandra MUSSOLINI",
+        "id": 28429
+      },
+      {
+        "fullName": "Sebastiano (Nello) MUSUMECI",
+        "id": 1944
+      },
+      {
+        "fullName": "Riitta MYLLER",
+        "id": 2062
+      },
+      {
+        "fullName": "Pasqualina NAPOLETANO",
+        "id": 1065
+      },
+      {
+        "fullName": "Juan Andrés NARANJO ESCOBAR",
+        "id": 5537
+      },
+      {
+        "fullName": "Hartmut NASSAUER",
+        "id": 1920
+      },
+      {
+        "fullName": "Mike NATTRASS",
+        "id": 28506
+      },
+      {
+        "fullName": "Robert NAVARRO",
+        "id": 28164
+      },
+      {
+        "fullName": "Alexandru NAZARE",
+        "id": 95019
+      },
+      {
+        "fullName": "Cătălin-Ioan NECHIFOR",
+        "id": 39707
+      },
+      {
+        "fullName": "Catherine NERIS",
+        "id": 38847
+      },
+      {
+        "fullName": "Bill NEWTON DUNN",
+        "id": 1394
+      },
+      {
+        "fullName": "Annemie NEYTS-UYTTEBROECK",
+        "id": 1946
+      },
+      {
+        "fullName": "James NICHOLSON",
+        "id": 1318
+      },
+      {
+        "fullName": "Baroness NICHOLSON OF WINTERBOURNE",
+        "id": 4522
+      },
+      {
+        "fullName": "Rareș-Lucian NICULESCU",
+        "id": 39714
+      },
+      {
+        "fullName": "Angelika NIEBLER",
+        "id": 4289
+      },
+      {
+        "fullName": "Lambert van NISTELROOIJ",
+        "id": 28165
+      },
+      {
+        "fullName": "Ljudmila NOVAK",
+        "id": 28294
+      },
+      {
+        "fullName": "Raimon OBIOLS",
+        "id": 4328
+      },
+      {
+        "fullName": "Achille OCCHETTO",
+        "id": 1094
+      },
+      {
+        "fullName": "Vural ÖGER",
+        "id": 28230
+      },
+      {
+        "fullName": "Péter OLAJOS",
+        "id": 28636
+      },
+      {
+        "fullName": "Jan OLBRYCHT",
+        "id": 28288
+      },
+      {
+        "fullName": "Seán Ó NEACHTAIN",
+        "id": 22861
+      },
+      {
+        "fullName": "Gérard ONESTA",
+        "id": 1838
+      },
+      {
+        "fullName": "Janusz ONYSZKIEWICZ",
+        "id": 28387
+      },
+      {
+        "fullName": "Ria OOMEN-RUIJTEN",
+        "id": 1122
+      },
+      {
+        "fullName": "Dumitru OPREA",
+        "id": 39723
+      },
+      {
+        "fullName": "Josu ORTUONDO LARREA",
+        "id": 4377
+      },
+      {
+        "fullName": "Csaba ŐRY",
+        "id": 23819
+      },
+      {
+        "fullName": "Miroslav OUZKÝ",
+        "id": 23705
+      },
+      {
+        "fullName": "Siiri OVIIR",
+        "id": 26829
+      },
+      {
+        "fullName": "Cem ÖZDEMIR",
+        "id": 28235
+      },
+      {
+        "fullName": "Reino PAASILINNA",
+        "id": 2301
+      },
+      {
+        "fullName": "Doris PACK",
+        "id": 1191
+      },
+      {
+        "fullName": "Athanasios PAFILIS",
+        "id": 28583
+      },
+      {
+        "fullName": "Maria Grazia PAGANO",
+        "id": 72727
+      },
+      {
+        "fullName": "Borut PAHOR",
+        "id": 28312
+      },
+      {
+        "fullName": "Justas Vincas PALECKIS",
+        "id": 28279
+      },
+      {
+        "fullName": "István PÁLFI",
+        "id": 28147
+      },
+      {
+        "fullName": "Marie PANAYOTOPOULOS-CASSIOTOU",
+        "id": 28571
+      },
+      {
+        "fullName": "Vladko Todorov PANAYOTOV",
+        "id": 38602
+      },
+      {
+        "fullName": "Marco PANNELLA",
+        "id": 1002
+      },
+      {
+        "fullName": "Pier Antonio PANZERI",
+        "id": 28365
+      },
+      {
+        "fullName": "Dimitrios PAPADIMOULIS",
+        "id": 28586
+      },
+      {
+        "fullName": "Atanas PAPARIZOV",
+        "id": 34229
+      },
+      {
+        "fullName": "Georgios PAPASTAMKOS",
+        "id": 28572
+      },
+      {
+        "fullName": "Neil PARISH",
+        "id": 4528
+      },
+      {
+        "fullName": "Antonyia PARVANOVA",
+        "id": 34234
+      },
+      {
+        "fullName": "Ioan Mircea PAŞCU",
+        "id": 33984
+      },
+      {
+        "fullName": "Aldo PATRICIELLO",
+        "id": 36392
+      },
+      {
+        "fullName": "Béatrice PATRIE",
+        "id": 4309
+      },
+      {
+        "fullName": "Rolandas PAVILIONIS",
+        "id": 28289
+      },
+      {
+        "fullName": "Vincent PEILLON",
+        "id": 28166
+      },
+      {
+        "fullName": "Bogdan PĘK",
+        "id": 28337
+      },
+      {
+        "fullName": "Alojz PETERLE",
+        "id": 23693
+      },
+      {
+        "fullName": "Maria PETRE",
+        "id": 34002
+      },
+      {
+        "fullName": "Tobias PFLÜGER",
+        "id": 28249
+      },
+      {
+        "fullName": "Willi PIECYK",
+        "id": 1866
+      },
+      {
+        "fullName": "Markus PIEPER",
+        "id": 28224
+      },
+      {
+        "fullName": "Sirpa PIETIKÄINEN",
+        "id": 40599
+      },
+      {
+        "fullName": "Rihards PĪKS",
+        "id": 23848
+      },
+      {
+        "fullName": "João de Deus PINHEIRO",
+        "id": 28381
+      },
+      {
+        "fullName": "Józef PINIOR",
+        "id": 28392
+      },
+      {
+        "fullName": "Mirosław PIOTROWSKI",
+        "id": 28341
+      },
+      {
+        "fullName": "Umberto PIRILLI",
+        "id": 29073
+      },
+      {
+        "fullName": "Hubert PIRKER",
+        "id": 2307
+      },
+      {
+        "fullName": "Paweł Bartłomiej PISKORSKI",
+        "id": 28296
+      },
+      {
+        "fullName": "Lapo PISTELLI",
+        "id": 28420
+      },
+      {
+        "fullName": "Gianni PITTELLA",
+        "id": 4436
+      },
+      {
+        "fullName": "Francisca PLEGUEZUELOS AGUILAR",
+        "id": 28326
+      },
+      {
+        "fullName": "Zita PLEŠTINSKÁ",
+        "id": 28173
+      },
+      {
+        "fullName": "Rovana PLUMB",
+        "id": 38595
+      },
+      {
+        "fullName": "Guido PODESTÀ",
+        "id": 2046
+      },
+      {
+        "fullName": "Radu PODGOREAN",
+        "id": 33985
+      },
+      {
+        "fullName": "Anni PODIMATA",
+        "id": 39317
+      },
+      {
+        "fullName": "Zdzisław Zbigniew PODKAŃSKI",
+        "id": 28391
+      },
+      {
+        "fullName": "Samuli POHJAMO",
+        "id": 2340
+      },
+      {
+        "fullName": "Bernard POIGNANT",
+        "id": 4311
+      },
+      {
+        "fullName": "Lydie POLFER",
+        "id": 28862
+      },
+      {
+        "fullName": "Adriana POLI BORTONE",
+        "id": 4467
+      },
+      {
+        "fullName": "José Javier POMÉS RUIZ",
+        "id": 1882
+      },
+      {
+        "fullName": "Mihaela POPA",
+        "id": 39715
+      },
+      {
+        "fullName": "Nicolae Vlad POPA",
+        "id": 34003
+      },
+      {
+        "fullName": "Petre POPEANGĂ",
+        "id": 33986
+      },
+      {
+        "fullName": "Miguel PORTAS",
+        "id": 28406
+      },
+      {
+        "fullName": "Horst POSDORF",
+        "id": 34727
+      },
+      {
+        "fullName": "Bernd POSSELT",
+        "id": 2229
+      },
+      {
+        "fullName": "Joop POST",
+        "id": 38160
+      },
+      {
+        "fullName": "Hans-Gert PÖTTERING",
+        "id": 1253
+      },
+      {
+        "fullName": "Christa PRETS",
+        "id": 4239
+      },
+      {
+        "fullName": "Pierre PRIBETICH",
+        "id": 38845
+      },
+      {
+        "fullName": "Giovanni PROCACCI",
+        "id": 4460
+      },
+      {
+        "fullName": "Vittorio PRODI",
+        "id": 28370
+      },
+      {
+        "fullName": "Jacek PROTASIEWICZ",
+        "id": 23782
+      },
+      {
+        "fullName": "John PURVIS",
+        "id": 729
+      },
+      {
+        "fullName": "Vasile PUȘCAȘ",
+        "id": 38270
+      },
+      {
+        "fullName": "Luís QUEIRÓ",
+        "id": 4461
+      },
+      {
+        "fullName": "Godelieve QUISTHOUDT-ROWOHL",
+        "id": 1055
+      },
+      {
+        "fullName": "Reinhard RACK",
+        "id": 2206
+      },
+      {
+        "fullName": "Alexander RADWAN",
+        "id": 4292
+      },
+      {
+        "fullName": "Bilyana Ilieva RAEVA",
+        "id": 38600
+      },
+      {
+        "fullName": "Ona RAINYTÉ-BODARD",
+        "id": 28273
+      },
+      {
+        "fullName": "Miloslav RANSDORF",
+        "id": 23706
+      },
+      {
+        "fullName": "Bernhard RAPKAY",
+        "id": 1906
+      },
+      {
+        "fullName": "Poul Nyrup RASMUSSEN",
+        "id": 28149
+      },
+      {
+        "fullName": "Vladimír REMEK",
+        "id": 28330
+      },
+      {
+        "fullName": "Karin RESETARITS",
+        "id": 28254
+      },
+      {
+        "fullName": "Herbert REUL",
+        "id": 28225
+      },
+      {
+        "fullName": "Marie-Line REYNAUD",
+        "id": 28168
+      },
+      {
+        "fullName": "Sérgio RIBEIRO",
+        "id": 234
+      },
+      {
+        "fullName": "José RIBEIRO E CASTRO",
+        "id": 5570
+      },
+      {
+        "fullName": "Teresa RIERA MADURELL",
+        "id": 28349
+      },
+      {
+        "fullName": "Frédérique RIES",
+        "id": 4253
+      },
+      {
+        "fullName": "Karin RIIS-JØRGENSEN",
+        "id": 1926
+      },
+      {
+        "fullName": "Giovanni RIVERA",
+        "id": 33611
+      },
+      {
+        "fullName": "Marco RIZZO",
+        "id": 28410
+      },
+      {
+        "fullName": "Maria ROBSAHM",
+        "id": 28128
+      },
+      {
+        "fullName": "Giovanni ROBUSTI",
+        "id": 58757
+      },
+      {
+        "fullName": "Michel ROCARD",
+        "id": 1977
+      },
+      {
+        "fullName": "Ulrike RODUST",
+        "id": 93624
+      },
+      {
+        "fullName": "Bogusław ROGALSKI",
+        "id": 28343
+      },
+      {
+        "fullName": "Zuzana ROITHOVÁ",
+        "id": 28352
+      },
+      {
+        "fullName": "Luca ROMAGNOLI",
+        "id": 28457
+      },
+      {
+        "fullName": "Raül ROMEVA i RUEDA",
+        "id": 28409
+      },
+      {
+        "fullName": "Dariusz ROSATI",
+        "id": 28394
+      },
+      {
+        "fullName": "Wojciech ROSZKOWSKI",
+        "id": 28356
+      },
+      {
+        "fullName": "Dagmar ROTH-BEHRENDT",
+        "id": 1183
+      },
+      {
+        "fullName": "Mechtild ROTHE",
+        "id": 1237
+      },
+      {
+        "fullName": "Libor ROUČEK",
+        "id": 23707
+      },
+      {
+        "fullName": "Martine ROURE",
+        "id": 4313
+      },
+      {
+        "fullName": "Christian ROVSING",
+        "id": 1269
+      },
+      {
+        "fullName": "Paul RÜBIG",
+        "id": 2278
+      },
+      {
+        "fullName": "Luisa Fernanda RUDI UBEDA",
+        "id": 28378
+      },
+      {
+        "fullName": "Heide RÜHLE",
+        "id": 4294
+      },
+      {
+        "fullName": "Flaviu Călin RUS",
+        "id": 72759
+      },
+      {
+        "fullName": "Leopold Józef RUTOWICZ",
+        "id": 28376
+      },
+      {
+        "fullName": "Eoin RYAN",
+        "id": 28113
+      },
+      {
+        "fullName": "Guido SACCONI",
+        "id": 4425
+      },
+      {
+        "fullName": "Tokia SAÏFI",
+        "id": 4345
+      },
+      {
+        "fullName": "Aloyzas SAKALAS",
+        "id": 28281
+      },
+      {
+        "fullName": "Katrin SAKS",
+        "id": 37200
+      },
+      {
+        "fullName": "José Ignacio SALAFRANCA SÁNCHEZ-NEYRA",
+        "id": 2002
+      },
+      {
+        "fullName": "María Isabel SALINAS GARCÍA",
+        "id": 28361
+      },
+      {
+        "fullName": "Matteo SALVINI",
+        "id": 28404
+      },
+      {
+        "fullName": "Antonis SAMARAS",
+        "id": 28548
+      },
+      {
+        "fullName": "Anders SAMUELSEN",
+        "id": 28160
+      },
+      {
+        "fullName": "Antolín SÁNCHEZ PRESEDO",
+        "id": 28295
+      },
+      {
+        "fullName": "Michele SANTORO",
+        "id": 28333
+      },
+      {
+        "fullName": "Manuel dos SANTOS",
+        "id": 21918
+      },
+      {
+        "fullName": "Sebastiano SANZARELLO",
+        "id": 58727
+      },
+      {
+        "fullName": "Salvador Domingo SANZ PALACIO",
+        "id": 40603
+      },
+      {
+        "fullName": "Daciana Octavia SÂRBU",
+        "id": 33989
+      },
+      {
+        "fullName": "Amalia SARTORI",
+        "id": 4423
+      },
+      {
+        "fullName": "Jacek SARYUSZ-WOLSKI",
+        "id": 28297
+      },
+      {
+        "fullName": "Gilles SAVARY",
+        "id": 4306
+      },
+      {
+        "fullName": "Toomas SAVI",
+        "id": 23864
+      },
+      {
+        "fullName": "Luciana SBARBATI",
+        "id": 4428
+      },
+      {
+        "fullName": "Christel SCHALDEMOSE",
+        "id": 37312
+      },
+      {
+        "fullName": "Pierre SCHAPIRA",
+        "id": 28172
+      },
+      {
+        "fullName": "Karin SCHEELE",
+        "id": 4242
+      },
+      {
+        "fullName": "Lydia SCHENARDI",
+        "id": 28211
+      },
+      {
+        "fullName": "Agnes SCHIERHUBER",
+        "id": 2209
+      },
+      {
+        "fullName": "Margaritis SCHINAS",
+        "id": 39315
+      },
+      {
+        "fullName": "Carl SCHLYTER",
+        "id": 28139
+      },
+      {
+        "fullName": "Frithjof SCHMIDT",
+        "id": 28237
+      },
+      {
+        "fullName": "Olle SCHMIDT",
+        "id": 4274
+      },
+      {
+        "fullName": "Ingo SCHMITT",
+        "id": 4272
+      },
+      {
+        "fullName": "Pál SCHMITT",
+        "id": 28133
+      },
+      {
+        "fullName": "Horst SCHNELLHARDT",
+        "id": 1930
+      },
+      {
+        "fullName": "György SCHÖPFLIN",
+        "id": 28135
+      },
+      {
+        "fullName": "Jürgen SCHRÖDER",
+        "id": 1858
+      },
+      {
+        "fullName": "Elisabeth SCHROEDTER",
+        "id": 1933
+      },
+      {
+        "fullName": "Martin SCHULZ",
+        "id": 1911
+      },
+      {
+        "fullName": "Willem SCHUTH",
+        "id": 28245
+      },
+      {
+        "fullName": "Andreas SCHWAB",
+        "id": 28223
+      },
+      {
+        "fullName": "Richard SEEBER",
+        "id": 28252
+      },
+      {
+        "fullName": "Gitte SEEBERG",
+        "id": 28158
+      },
+      {
+        "fullName": "Inger SEGELSTRÖM",
+        "id": 28129
+      },
+      {
+        "fullName": "Esko SEPPÄNEN",
+        "id": 2304
+      },
+      {
+        "fullName": "Gheorghe Vergil ȘERBU",
+        "id": 37451
+      },
+      {
+        "fullName": "Adrian SEVERIN",
+        "id": 33990
+      },
+      {
+        "fullName": "Lydia SHOULEVA",
+        "id": 34236
+      },
+      {
+        "fullName": "Czesław Adam SIEKIERSKI",
+        "id": 23787
+      },
+      {
+        "fullName": "Nikolaos SIFUNAKIS",
+        "id": 28582
+      },
+      {
+        "fullName": "Eva-Riitta SIITONEN",
+        "id": 95014
+      },
+      {
+        "fullName": "Ovidiu Ioan SILAGHI",
+        "id": 33991
+      },
+      {
+        "fullName": "José Albino SILVA PENEDA",
+        "id": 28402
+      },
+      {
+        "fullName": "Chantal SIMONOT",
+        "id": 28212
+      },
+      {
+        "fullName": "Brian SIMPSON",
+        "id": 1309
+      },
+      {
+        "fullName": "Kathy SINNOTT",
+        "id": 28119
+      },
+      {
+        "fullName": "Marek SIWIEC",
+        "id": 28380
+      },
+      {
+        "fullName": "Jonas SJÖSTEDT",
+        "id": 2268
+      },
+      {
+        "fullName": "Peter SKINNER",
+        "id": 2081
+      },
+      {
+        "fullName": "Nina ŠKOTTOVÁ",
+        "id": 28319
+      },
+      {
+        "fullName": "Alyn SMITH",
+        "id": 28508
+      },
+      {
+        "fullName": "Stefan SOFIANSKI",
+        "id": 34256
+      },
+      {
+        "fullName": "Csaba SÓGOR",
+        "id": 39724
+      },
+      {
+        "fullName": "Renate SOMMER",
+        "id": 4282
+      },
+      {
+        "fullName": "Søren Bo SØNDERGAARD",
+        "id": 37676
+      },
+      {
+        "fullName": "Bogusław SONIK",
+        "id": 28299
+      },
+      {
+        "fullName": "María SORNOSA MARTÍNEZ",
+        "id": 1970
+      },
+      {
+        "fullName": "Bernard SOULAGE",
+        "id": 95298
+      },
+      {
+        "fullName": "Sérgio SOUSA PINTO",
+        "id": 4445
+      },
+      {
+        "fullName": "Jean SPAUTZ",
+        "id": 684
+      },
+      {
+        "fullName": "Francesco Enrico SPERONI",
+        "id": 997
+      },
+      {
+        "fullName": "Bart STAES",
+        "id": 4751
+      },
+      {
+        "fullName": "Cristian STĂNESCU",
+        "id": 37449
+      },
+      {
+        "fullName": "Grażyna STANISZEWSKA",
+        "id": 28388
+      },
+      {
+        "fullName": "Margarita STARKEVIČIŪTĖ",
+        "id": 28285
+      },
+      {
+        "fullName": "Peter ŠŤASTNÝ",
+        "id": 28170
+      },
+      {
+        "fullName": "Gabriele STAUNER",
+        "id": 4293
+      },
+      {
+        "fullName": "Petya STAVREVA",
+        "id": 38608
+      },
+      {
+        "fullName": "Ursula STENZEL",
+        "id": 2294
+      },
+      {
+        "fullName": "Dirk STERCKX",
+        "id": 4243
+      },
+      {
+        "fullName": "Struan STEVENSON",
+        "id": 4546
+      },
+      {
+        "fullName": "Catherine STIHLER",
+        "id": 4545
+      },
+      {
+        "fullName": "Ulrich STOCKMANN",
+        "id": 1859
+      },
+      {
+        "fullName": "Theodor Dumitru STOLOJAN",
+        "id": 39721
+      },
+      {
+        "fullName": "Dimitar STOYANOV",
+        "id": 34254
+      },
+      {
+        "fullName": "Ivo STREJČEK",
+        "id": 28320
+      },
+      {
+        "fullName": "Daniel STROŽ",
+        "id": 28339
+      },
+      {
+        "fullName": "Alexander STUBB",
+        "id": 28261
+      },
+      {
+        "fullName": "Robert STURDY",
+        "id": 2037
+      },
+      {
+        "fullName": "Margie SUDRE",
+        "id": 4340
+      },
+      {
+        "fullName": "David SUMBERG",
+        "id": 4539
+      },
+      {
+        "fullName": "László SURJÁN",
+        "id": 23820
+      },
+      {
+        "fullName": "Gianluca SUSTA",
+        "id": 36396
+      },
+      {
+        "fullName": "Eva-Britt SVENSSON",
+        "id": 28134
+      },
+      {
+        "fullName": "Hannes SWOBODA",
+        "id": 2295
+      },
+      {
+        "fullName": "Károly Ferenc SZABÓ",
+        "id": 34004
+      },
+      {
+        "fullName": "József SZÁJER",
+        "id": 23821
+      },
+      {
+        "fullName": "Andrzej Jan SZEJNA",
+        "id": 28382
+      },
+      {
+        "fullName": "István SZENT-IVÁNYI",
+        "id": 23830
+      },
+      {
+        "fullName": "Konrad SZYMAŃSKI",
+        "id": 28358
+      },
+      {
+        "fullName": "Csaba Sándor TABAJDI",
+        "id": 23808
+      },
+      {
+        "fullName": "Antonio TAJANI",
+        "id": 2187
+      },
+      {
+        "fullName": "Hannu TAKKULA",
+        "id": 28316
+      },
+      {
+        "fullName": "Timothy Charles Ayrton TANNOCK",
+        "id": 4521
+      },
+      {
+        "fullName": "Marc TARABELLA",
+        "id": 29579
+      },
+      {
+        "fullName": "Andres TARAND",
+        "id": 28980
+      },
+      {
+        "fullName": "Salvatore TATARELLA",
+        "id": 1945
+      },
+      {
+        "fullName": "Michel TEYCHENNÉ",
+        "id": 94281
+      },
+      {
+        "fullName": "Britta THOMSEN",
+        "id": 28153
+      },
+      {
+        "fullName": "Marianne THYSSEN",
+        "id": 1832
+      },
+      {
+        "fullName": "Silvia-Adriana ȚICĂU",
+        "id": 36281
+      },
+      {
+        "fullName": "Radu ȚÎRLE",
+        "id": 34005
+      },
+      {
+        "fullName": "Jeffrey TITFORD",
+        "id": 4515
+      },
+      {
+        "fullName": "Gary TITLEY",
+        "id": 1311
+      },
+      {
+        "fullName": "Patrizia TOIA",
+        "id": 28340
+      },
+      {
+        "fullName": "László TŐKÉS",
+        "id": 39726
+      },
+      {
+        "fullName": "Horia-Victor TOMA",
+        "id": 38421
+      },
+      {
+        "fullName": "Ewa TOMASZEWSKA",
+        "id": 39022
+      },
+      {
+        "fullName": "Witold TOMCZAK",
+        "id": 24089
+      },
+      {
+        "fullName": "Jacques TOUBON",
+        "id": 28198
+      },
+      {
+        "fullName": "Georgios TOUSSAS",
+        "id": 28584
+      },
+      {
+        "fullName": "Antonios TRAKATELLIS",
+        "id": 2182
+      },
+      {
+        "fullName": "Catherine TRAUTMANN",
+        "id": 1129
+      },
+      {
+        "fullName": "Kyriacos TRIANTAPHYLLIDES",
+        "id": 28514
+      },
+      {
+        "fullName": "Helga TRÜPEL",
+        "id": 28240
+      },
+      {
+        "fullName": "Claude TURMES",
+        "id": 4432
+      },
+      {
+        "fullName": "Evangelia TZAMPAZI",
+        "id": 28581
+      },
+      {
+        "fullName": "Feleknas UCA",
+        "id": 4302
+      },
+      {
+        "fullName": "Thomas ULMER",
+        "id": 28221
+      },
+      {
+        "fullName": "Vladimir URUTCHEV",
+        "id": 38601
+      },
+      {
+        "fullName": "Inese VAIDERE",
+        "id": 28617
+      },
+      {
+        "fullName": "Nikolaos VAKALIS",
+        "id": 28573
+      },
+      {
+        "fullName": "Adina-Ioana VĂLEAN",
+        "id": 37324
+      },
+      {
+        "fullName": "Elena VALENCIANO",
+        "id": 4334
+      },
+      {
+        "fullName": "Joan VALLVÉ",
+        "id": 1976
+      },
+      {
+        "fullName": "Frank VANHECKE",
+        "id": 1956
+      },
+      {
+        "fullName": "Johan VAN HECKE",
+        "id": 4241
+      },
+      {
+        "fullName": "Anne VAN LANCKER",
+        "id": 1938
+      },
+      {
+        "fullName": "Geoffrey VAN ORDEN",
+        "id": 4513
+      },
+      {
+        "fullName": "Daniel VARELA SUANZES-CARPEGNA",
+        "id": 2000
+      },
+      {
+        "fullName": "Ioannis VARVITSIOTIS",
+        "id": 28547
+      },
+      {
+        "fullName": "Ari VATANEN",
+        "id": 4256
+      },
+      {
+        "fullName": "Yannick VAUGRENARD",
+        "id": 28175
+      },
+      {
+        "fullName": "Paavo VÄYRYNEN",
+        "id": 2128
+      },
+      {
+        "fullName": "Armando VENETO",
+        "id": 36390
+      },
+      {
+        "fullName": "Riccardo VENTRE",
+        "id": 28437
+      },
+      {
+        "fullName": "Donato Tommaso VERALDI",
+        "id": 36394
+      },
+      {
+        "fullName": "Paul VERGÈS",
+        "id": 1490
+      },
+      {
+        "fullName": "Bernadette VERGNAUD",
+        "id": 28177
+      },
+      {
+        "fullName": "Marcello VERNOLA",
+        "id": 28439
+      },
+      {
+        "fullName": "Alejo VIDAL-QUADRAS",
+        "id": 4308
+      },
+      {
+        "fullName": "Kristian VIGENIN",
+        "id": 34232
+      },
+      {
+        "fullName": "Philippe de VILLIERS",
+        "id": 2212
+      },
+      {
+        "fullName": "Theresa VILLIERS",
+        "id": 4520
+      },
+      {
+        "fullName": "Marta VINCENZI",
+        "id": 28335
+      },
+      {
+        "fullName": "Kyösti VIRRANKOSKI",
+        "id": 2306
+      },
+      {
+        "fullName": "Cornelis VISSER",
+        "id": 39534
+      },
+      {
+        "fullName": "Oldřich VLASÁK",
+        "id": 28323
+      },
+      {
+        "fullName": "Dominique VLASTO",
+        "id": 5737
+      },
+      {
+        "fullName": "Johannes VOGGENHUBER",
+        "id": 2053
+      },
+      {
+        "fullName": "Sahra WAGENKNECHT",
+        "id": 28250
+      },
+      {
+        "fullName": "Diana WALLIS",
+        "id": 4544
+      },
+      {
+        "fullName": "Ralf WALTER",
+        "id": 1910
+      },
+      {
+        "fullName": "Sir Graham WATSON",
+        "id": 2155
+      },
+      {
+        "fullName": "Henri WEBER",
+        "id": 2319
+      },
+      {
+        "fullName": "Manfred WEBER",
+        "id": 28229
+      },
+      {
+        "fullName": "Renate WEBER",
+        "id": 39713
+      },
+      {
+        "fullName": "Barbara WEILER",
+        "id": 1907
+      },
+      {
+        "fullName": "Anja WEISGERBER",
+        "id": 28227
+      },
+      {
+        "fullName": "Åsa WESTLUND",
+        "id": 28130
+      },
+      {
+        "fullName": "Phillip WHITEHEAD",
+        "id": 2174
+      },
+      {
+        "fullName": "John WHITTAKER",
+        "id": 28509
+      },
+      {
+        "fullName": "Rainer WIELAND",
+        "id": 2323
+      },
+      {
+        "fullName": "Andrzej WIELOWIEYSKI",
+        "id": 93543
+      },
+      {
+        "fullName": "Jan Marinus WIERSMA",
+        "id": 1952
+      },
+      {
+        "fullName": "Wojciech WIERZEJSKI",
+        "id": 28344
+      },
+      {
+        "fullName": "Anders WIJKMAN",
+        "id": 4276
+      },
+      {
+        "fullName": "Dame Glenis WILLMOTT",
+        "id": 35743
+      },
+      {
+        "fullName": "Iuliu WINKLER",
+        "id": 39725
+      },
+      {
+        "fullName": "Thomas WISE",
+        "id": 28496
+      },
+      {
+        "fullName": "Karl von WOGAU",
+        "id": 1224
+      },
+      {
+        "fullName": "Lars WOHLIN",
+        "id": 28144
+      },
+      {
+        "fullName": "Bernard WOJCIECHOWSKI",
+        "id": 34720
+      },
+      {
+        "fullName": "Janusz WOJCIECHOWSKI",
+        "id": 23784
+      },
+      {
+        "fullName": "Corien WORTMANN-KOOL",
+        "id": 28167
+      },
+      {
+        "fullName": "Joachim WUERMELING",
+        "id": 4291
+      },
+      {
+        "fullName": "Francis WURTZ",
+        "id": 1018
+      },
+      {
+        "fullName": "Terence WYNN",
+        "id": 1295
+      },
+      {
+        "fullName": "Marilisa XENOGIANNAKOPOULOU",
+        "id": 28577
+      },
+      {
+        "fullName": "Luis YÁÑEZ-BARNUEVO GARCÍA",
+        "id": 28278
+      },
+      {
+        "fullName": "Anna ZÁBORSKÁ",
+        "id": 23894
+      },
+      {
+        "fullName": "Jan ZAHRADIL",
+        "id": 23712
+      },
+      {
+        "fullName": "Zbigniew ZALESKI",
+        "id": 28300
+      },
+      {
+        "fullName": "Mauro ZANI",
+        "id": 28414
+      },
+      {
+        "fullName": "Iva ZANICCHI",
+        "id": 41007
+      },
+      {
+        "fullName": "Andrzej Tomasz ZAPAŁOWSKI",
+        "id": 33946
+      },
+      {
+        "fullName": "Stefano ZAPPALA'",
+        "id": 4433
+      },
+      {
+        "fullName": "Tomáš ZATLOUKAL",
+        "id": 28351
+      },
+      {
+        "fullName": "Tatjana ŽDANOKA",
+        "id": 28619
+      },
+      {
+        "fullName": "Dushana ZDRAVKOVA",
+        "id": 38604
+      },
+      {
+        "fullName": "Vladimír ŽELEZNÝ",
+        "id": 28357
+      },
+      {
+        "fullName": "Josef ZIELENIEC",
+        "id": 28348
+      },
+      {
+        "fullName": "Roberts ZĪLE",
+        "id": 28615
+      },
+      {
+        "fullName": "Gabriele ZIMMER",
+        "id": 28248
+      },
+      {
+        "fullName": "Jürgen ZIMMERLING",
+        "id": 4281
+      },
+      {
+        "fullName": "Nicola ZINGARETTI",
+        "id": 28419
+      },
+      {
+        "fullName": "MARIAN ZLOTEA",
+        "id": 39709
+      },
+      {
+        "fullName": "Jaroslav ZVĚŘINA",
+        "id": 28921
+      },
+      {
+        "fullName": "Tadeusz ZWIEFKA",
+        "id": 28301
+      }
+    ]
+  }
+}
