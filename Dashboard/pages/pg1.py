@@ -5,25 +5,30 @@ Created on Mon Apr 17 18:23:06 2023
 @author: gaiaa
 """
 
+#importing the libraries 
 import dash
-from dash import dcc, html, callback, Output, Input
-import plotly.express as px
+from dash import html
 import dash_bootstrap_components as dbc
 import pandas as pd
 from PIL import Image
+import os
 
+#setting the path to call datasets and images 
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+dname = dname.replace("\\", "/")
+os.chdir(dname)
 
-dash.register_page(__name__, path='/', name='Home') # '/' is home page
+#Creating page Home and linking to the 
+dash.register_page(__name__, path='/', name='Home') 
 
-# page 1 data
-df = pd.read_csv("dataset/merged_coalition.csv")
+# importing the dataframe 
+df = pd.read_csv(dname + "/dataset/merged_coalition.csv")
 
+#saving the parliament chart made in r and exported in png in a variable
+pil_img2 = Image.open("static/Rplot.png")
 
-#Using Pillow to read the the image
-#pil_img = Image.open("C:/Users/gaiaa/OneDrive/Desktop/dash/assets/Rplot.png")
-pil_img2 = Image.open("assets/Rplot05.png")
-network = Image.open("assets/Graph.png")
-
+#Creating the first card to put information about the current EU parliament
 card_main = dbc.Card(
     [
         dbc.CardBody(
@@ -37,11 +42,10 @@ card_main = dbc.Card(
             ]
         ),
     ],
-     color="#eeeeee", outline=False # https://bootswatch.com/default/ for more card colors
-    #inverse=True,   # change color of text (black or white)
-    #outline=True  # True = remove the block colors from the background and header
+     color="#eeeeee", outline=False 
 )
 
+#creating the second card to put information about the current EU parliament
 card_second = dbc.Card(
     [
         dbc.CardBody(
@@ -55,11 +59,10 @@ card_second = dbc.Card(
             ]
         ),
     ],
-     color="#eeeeee", outline=False # https://bootswatch.com/default/ for more card colors
-    #inverse=True,   # change color of text (black or white)
-    #outline=True  # True = remove the block colors from the background and header
+     color="#eeeeee", outline=False
 )
 
+#creating the second card to put information about the current EU parliament
 card_third = dbc.Card(
     [
         dbc.CardBody(
@@ -73,12 +76,10 @@ card_third = dbc.Card(
             ]
         ),
     ],
-     color="#eeeeee", outline=False # https://bootswatch.com/default/ for more card colors
-    #inverse=True,   # change color of text (black or white)
-    #outline=True  # True = remove the block colors from the background and header
+     color="#eeeeee", outline=False 
 )
 
-
+#creating the content for the first page 
 layout = dbc.Container([
     dbc.Row([
         html.Div(children="The European Parliament is the only directly elected institution of the European Union. Thus, it is important that its compostition is representative of the entire european society."),
@@ -89,21 +90,12 @@ layout = dbc.Container([
         html.H6("An overview of the characteristics of the European Parliament today"), #style={ 'font-weight': 'bold'}
         html.Div(style={'height':'40px'}),
         ]),
+    
     dbc.Row([
         dbc.Col([
-#            html.Div(children='''The current European Parliament composition per political position.''', 
-#                     style={
-#            'textAlign': 'center'}),
             html.Img(src=pil_img2,  
              style={'width': '100%',
             'height': '100%',
-            #'lineHeight': '60px',
-            #'borderWidth': '1px',
-            #'borderStyle': 'dashed',
-            #'borderRadius': '5px',
-            #'textAlign': 'center',
-            #'margin': '10px',
-            #'marginBottom': 50, 'marginTop': 25
                    })
         ], width={'size':6, 'offset':0, 'order':1}),
        
@@ -118,10 +110,20 @@ layout = dbc.Container([
                 ], width={'size':5, 'offset':1, 'order':2},  align="center")
         ]),
    
-    html.Div(style={'height':'50px'}),
-        
+    html.Div(style={'height':'40px'}),
+    
+    dbc.Row([
+        dbc.Col([
+            html.H4(children="Find out our findings in the next sections!", 
+                     style={'textAlign': 'center', 'font-weight': 'bold'})], width={'size':12})
+        ])
   
 ] , style={'backgroundColor': "#eeeeee"})
+
+
+
+
+
 
 
 
