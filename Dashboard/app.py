@@ -9,10 +9,17 @@ import dash
 from dash import html, dcc
 import dash_bootstrap_components as dbc
 from PIL import Image
+import os
+
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+dname = dname.replace("\\", "/")
+os.chdir(dname)
+
 
 app = dash.Dash(__name__, use_pages=True, external_stylesheets=[dbc.themes.FLATLY])
 
-pil_img_eu = Image.open("dash/assets/eu2.png")
+pil_img_eu = Image.open("assets/eu2.png")
 
 sidebar = dbc.Nav(
             [
@@ -39,12 +46,6 @@ app.layout = dbc.Container([
             html.Img(src=pil_img_eu,  
              style={'width': '80%',
             'height': '85%',
-            #'lineHeight': '60px',
-            #'borderWidth': '1px',
-            #'borderStyle': 'dashed',
-            #'borderRadius': '5px',
-            #'textAlign': 'center',
-            #'margin': '10px'
             'marginTop': 15
                    })
         ], width={'size':2, 'offset':2, 'order':1}),
@@ -77,4 +78,4 @@ app.layout = dbc.Container([
 
 
 if __name__ == "__main__":
-    app.run(debug=False)
+    app.run(debug=True,port=8051)
