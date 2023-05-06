@@ -8,7 +8,14 @@ import dash_bootstrap_components as dbc
 import pandas as pd
 import numpy as np
 from PIL import Image
+import os
 
+
+#setting the path to call datasets and images 
+abspath = os.path.abspath(__file__)
+dname = os.path.dirname(abspath)
+dname = dname.replace("\\", "/")
+os.chdir(dname)
 
 #Creating page Gender Gap and linking to the main app
 dash.register_page(__name__, name='Gender Gap')
