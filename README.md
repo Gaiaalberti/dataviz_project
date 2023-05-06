@@ -4,7 +4,9 @@
 
 This project aims to provide insights into the evolving nature of the European Parliament and the challenges that it faces in achieving gender equality, with a final focus on the Italian EU representatives.
 
-Here [our website on the Gender Gap in the European Union Parliament](https://gendergap-eu.herokuapp.com/)
+Here [our website on the Gender Gap in the European Union Parliament](https://gendergap-eu.herokuapp.com/).
+
+(_The website is not mobile-friendly_. We strongly advise to navigate the website using the laptop)
 
 ## Source of data
 All the information to create the dataset have been retrieved from the [webisite of the Members of the European Parliament](https://www.europarl.europa.eu/meps/en/home) using BeautifulSoup
@@ -34,6 +36,10 @@ _Dashboard_ folder: contains all the images, code, and csv files to run our dash
 - pages: contains a folder "dataset" with the datsets used, a folder "static" with the static images and the three pages of our dashboard. 
 - app.py: the main app in which all the general layout of the dashboard is set 
 
+_r-visualization_ folder:
+- r file for creating the parliament chart visualization displayed in the home page of the Dash app 
+- csv file used for plotting the r visualization
+
 _terms_ folder: 
 - json files: json files of each term 
 - python files: for each term containing the code to retrieve information from the [EU MEPs webisite](https://www.europarl.europa.eu/meps/en/home) with BeutifulSoup
@@ -48,8 +54,6 @@ _merged_coalition.csv_:
 _network_dep.ipynb_:
 - python file for creating the network of MEPs displayed in the Dash app
 
-_parliament_R_plot.r_:
-- r file for creating the parliament chart visualization displayed in the home page of the Dash app 
 
 
 ## Contributors
