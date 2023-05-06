@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 17 18:23:06 2023
-
-@author: gaiaa
-"""
+## home page
 
 #importing the libraries 
 import dash
@@ -62,7 +57,7 @@ card_second = dbc.Card(
      color="#eeeeee", outline=False
 )
 
-#creating the second card to put information about the current EU parliament
+#creating the third card to put information about the current EU parliament
 card_third = dbc.Card(
     [
         dbc.CardBody(
@@ -93,7 +88,7 @@ layout = dbc.Container([
     
     dbc.Row([
         dbc.Col([
-            html.Img(src=pil_img2,  
+            html.Img(src=pil_img2,  #inserting the parliament chart 
              style={'width': '100%',
             'height': '100%',
                    })
@@ -101,11 +96,11 @@ layout = dbc.Container([
        
         dbc.Col([
             dbc.Row([
-                dbc.Col(card_main, width={'size':6, 'order':1}, align="center")]), 
+                dbc.Col(card_main, width={'size':6, 'order':1}, align="center")]), #inserting the card
             dbc.Row([
-                dbc.Col(card_second, width={'size':6, 'order':1}),
+                dbc.Col(card_second, width={'size':6, 'order':1}), #inserting the card
                 html.Div(style={'height':'20px'}),
-                dbc.Col(card_third, width={'size':6, 'order':2})
+                dbc.Col(card_third, width={'size':6, 'order':2}) #inserting the card
                 ])
                 ], width={'size':5, 'offset':1, 'order':2},  align="center")
         ]),
@@ -116,7 +111,9 @@ layout = dbc.Container([
         dbc.Col([
             html.H4(children="Find out our findings in the next sections!", 
                      style={'textAlign': 'center', 'font-weight': 'bold'})], width={'size':12})
-        ])
+        ]),
+   
+    html.Div(style={'height':'40px'})
   
 ] , style={'backgroundColor': "#eeeeee"})
 

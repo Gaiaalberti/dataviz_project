@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 17 18:23:21 2023
-
-@author: gaiaa
-"""
+## Gender Gap page
 
 #importing the libraries
 import dash
@@ -12,12 +7,20 @@ import plotly.express as px
 import dash_bootstrap_components as dbc
 import pandas as pd
 import numpy as np
+from PIL import Image
+
 
 #Creating page Gender Gap and linking to the main app
 dash.register_page(__name__, name='Gender Gap')
 
-# importing the dataframe 
+# importing the merged and filan dataset
 df = pd.read_csv("dataset/merged_coalition.csv")
+
+#importing dataset for network
+merged_network = pd.read_csv("dataset/merged_network.csv")
+
+#importing the png of the network created using networkx library
+network = Image.open("static/Graph.png")
 
 #creating the function to plot the first bar chart
 def bar_line():
@@ -115,7 +118,7 @@ layout=dbc.Container([
     
      dbc.Row([
          dbc.Col([
-             #creating a new dropdown in whichi th choose the country
+             #creating a new dropdown in which to choose the country
             dcc.Dropdown(id='drp_country', multi=False, value='Germany',
                          options=[{'label':x, 'value':x} for x in np.sort(df['country'].unique())])]
             , width={'size':5})]),  
@@ -134,7 +137,81 @@ layout=dbc.Container([
             html.Div(style={'height':'20px'}),
             html.H6(children="Check the trend of other countries to discover their progress in gender equality!", 
                      style={'textAlign': 'center', 'font-weight': 'bold', 'font-style': 'italic' })], width={'size':5}, align = "center"       
-        )],className=' mb-4')
+        )],className=' mb-4'),
+
+    html.Div(style={'height':'20px'}),
+
+
+# Fourth Paragraph    
+    dbc.Row([
+        
+        dbc.Col([
+            html.H4('Network of deputies in the last three terms (2009-current)', 
+                    style={'textAlign': 'left', "color" : "black", 'font-weight': 'bold'}),    
+            
+            html.Div(children="The visualization below represents the network of the European parliament members across three terms starting from term 7 (2009-2014) to term 9 (2019-2024). The aim is to understand how many members have been re-elected for the subsequent terms. The blue points represent the MEPs that have just been elected for that term. The green points represent MEPs that have been re-elected twice while the red dots represent the MEPs that have re-elected for all three terms from 2009 up to now. Then, we analyzed the affiliation of these re-elected members and whether there are big differences in the numbers of re-elected women vs re-elected men ."),
+            html.Div(style={'height':'10px'}),            
+            html.Div(children="Remark: Only the last three terms have been taken into consideration, to get an understanding of the recent trends.",
+                    style={'font-weight': 'bold','font-style': 'italic' } ),
+
+           ], width=12)]),    
+   
+    html.Div(style={'height':'20px'}),
+    
+     dbc.Row([       
+         dbc.Col([
+             #inserting the network 
+             html.Img(src=network,  
+              style={'width': '100%',
+             'height': '100%',
+                    })
+         ], width={'size':6, 'offset':0, 'order':1}),
+        
+         dbc.Col([            
+             dbc.Row([                
+                     html.H5(children = 'Analysis of the gender of the re-elected MEPs in each political orientation.', 
+                                         style={'textAlign': 'center', "color" : "black"},
+                                         className=' mb-4')            
+                     
+                     ]), 
+             html.Div(style={'height':'20px'}),
+             
+             
+             dbc.Row([
+                 #creating the dropdown
+                     dcc.Dropdown(id='drdw', multi=False, value='2 terms (7-8)',
+                                  options=[
+                 {'label': 'MEPs of term 7 re-elected only for term 8', 'value': '2 terms (7-8)'},
+                 {'label': 'MEPs of term 8 re-elected only for term 9', 'value': '2 terms (8-9)'},
+                 {'label': 'MEPs of term 7 re-elected only for term 9', 'value': '2 terms (7-9)'},
+                 {'label': 'MEPs of term 7 re-elected for both term 8 & 9 ', 'value': '3 terms'}
+                                  ])]),
+            
+             html.Div(style={'height':'20px'}),
+            
+               
+             dbc.Row([
+                 #defining the bar chart
+                     dcc.Graph(id = "anim_bar")
+                 ]),
+             
+             html.Div(style={'height':'60px'}),
+
+             ] ,width={'size':5, 'offset':1,'order':2}),
+         
+         
+         ]), 
+     
+     html.Div(style={'height':'50px'}),
+
+     dbc.Row([      
+         dbc.Col([
+             #Commenting the insights from the bar chart 
+             html.H6(children=" We can notice that term 7 and 8 (hence the ones going from 2009 until 2019) have shared a lot of deputies, some of which have also been re-elected for the current term (2019-2024). Moreover, a small group of deputies has participated to term 7 and again to term 9, skipping a term. From the bar chart, it is interesting to notice how for the right wing there is always a very small or null percentage of women re-elected in contrast with the centre and left wing where the % percentage of women re-elected is similar to the % percentage of men re-elected for that political orientation",  
+                 style={'textAlign': 'center'}),
+             ])]
+             ,className=' mb-4'),     
+   
    
 ])
 
@@ -199,3 +276,24 @@ def create_bar_1(country):
     fig3 = px.bar(pivoted, barmode='stack', orientation='h',color_discrete_map={"female": "#FF92A5", "male": "#72B7B2"})
     fig3.update_layout(xaxis_title="% of male/female MEPs", yaxis_title='term', plot_bgcolor='#eeeeee', paper_bgcolor="#eeeeee", hoverlabel=dict(font=dict(color='white')))
     return fig3
+
+
+#linking the dropdown 3 component relative to the terms to the stacked bar chart
+@callback(
+    Output("anim_bar", "figure"), 
+    Input("drdw", "value"))
+
+#creating the function to plot the stacked bar chart with plotly where:
+
+def create_bar_chart(mandate):
+    filtered_df = merged_network[merged_network['mandate_length'] == mandate]
+    grouped = filtered_df.groupby(['orientation', 'gender']).size().reset_index(name='count')
+    # Plot the stacked bar chart using Plotly Express
+    category_order = ['female', 'male']
+    fig6 = px.bar(grouped, x='orientation', y='count', color='gender', barmode='stack',category_orders={'gender': category_order},
+                 labels={'orientation': 'Orientation', 'count': 'Count', 'gender': 'Gender'},
+    color_discrete_map={"female": "#FF92A5", "male": "#72B7B2"},)
+    
+    fig6.update_layout(showlegend=True, legend_title_text='Gender',plot_bgcolor='#eeeeee', paper_bgcolor="#eeeeee", hoverlabel=dict(font=dict(color='white')))
+    fig6.update_xaxes(categoryorder='array', categoryarray= ['left', 'centre-left', 'centre', 'centre-right', 'right', 'Non aligned'])
+    return fig6

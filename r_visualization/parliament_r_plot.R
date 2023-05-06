@@ -5,9 +5,9 @@ library(ggplot2)
 library(readxl)
 library(tidyverse)
 
-#importing reduced dataset 
+#importing the dataset
+mc<-read.csv("grouped_dataset_r_chart.csv")
 
-mc <- fig_1_
 
 #setting the colors for each political orientation
 
@@ -51,7 +51,7 @@ p2<-ggplot(mc) +
         legend.key.size = unit(0.8, 'lines'),
         legend.text = element_text(margin = margin(r = 1, unit = 'cm'), size = 12),
         legend.text.align = 0)+
-  annotate("text", x = 0, y = 1, label = paste0("2019-2014 \n EU Parliament "),colour = "black",size=6)+
+  annotate("text", x = 0, y = 1, label = paste0('Seats in EU Parliament :\n 705'),colour = "black",size=6)+
   labs(caption = "Source: https://www.europarl.europa.eu/meps/en/full-list")+
   guides(fill=guide_legend(nrow=2,byrow=FALSE,reverse =FALSE ,title=NULL))
 p2

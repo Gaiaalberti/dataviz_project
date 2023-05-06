@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 17 18:21:59 2023
-
-@author: gaiaa
-"""
+## main app
 
 #importing needed libraries 
 import dash
@@ -78,4 +73,4 @@ app.layout = dbc.Container([
 
 #executing the app
 if __name__ == "__main__":
-    app.run(debug=True,port=8051)
+    app.run(debug=True,port=8050)
