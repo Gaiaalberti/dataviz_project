@@ -1,9 +1,5 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Apr 17 18:23:25 2023
+## Italy page
 
-@author: gaiaa
-"""
 #importing the libraries
 import dash
 from dash import dcc, html, callback, Output, Input
@@ -15,8 +11,9 @@ import numpy as np
 #Creating page Italy and linking to the main app
 dash.register_page(__name__, name='Italy')
 
-# importing the dataframe Italy (subset of the merged_coalition dataset)
+# importing the merged final dataframe
 df = pd.read_csv("dataset/merged_coalition.csv")
+# importing the dataframe Italy (subset of the merged_coalition dataset)
 df_italy = pd.read_csv("dataset/italy.csv")
 
 #creating the content for the third page 
@@ -54,14 +51,16 @@ layout=dbc.Container([
             style={'textAlign': 'center', 'font-weight': 'bold', 'font-style': 'italic' })
             ],
             width={'size':4,'offset': 0 , "order":2 }
-        )], align= "center" ),
+        )], align= "center" ), 
+
+        html.Div(style={'height':'50px'}),
  
 #Second paragraph
     dbc.Row([
         html.H4(children = 'Gender gap for Italian MEPs per european group or national group across terms', 
                     style={'textAlign': 'left', "color" : "black", 'font-weight': 'bold'}
                     ),
-        html.H6(children = '', 
+        html.H6(children = "Let’s see how the female presence among the Italian deputies has changed over the years, both having a look within national parties and european groups.", 
                     style={'textAlign': 'left'}
                     ),       
         ]),
@@ -87,7 +86,20 @@ layout=dbc.Container([
             #define the bar chart about italy
             dcc.Graph(id="bar_chart_italy")   
         ])
-    ])
+    ]), 
+
+    html.Div(style={'height':'40px'}),
+   
+    dbc.Row([      
+        dbc.Col([
+            #Commenting the insights from the bar chart 
+            html.H6(children="An analysis of the female representation among Italian deputies reveals a positive trend towards narrowing the gender gap within national parties. Although some parties still lack female representation, more than half of the MEPs in the largest parties, such as Lega and Partito Democratico, are women in the current term. Notably, this positive change has occurred irrespective of political faction, as both parties are vastly different in their political orientations, views, and opinions.", style={'textAlign': 'center'}),
+            html.H6(children="Furthermore, a similar trend is observed in European groups, with women's representation more evenly distributed across the various parties.",  
+                style={'textAlign': 'center'}),
+            html.H6(children="Overall, these findings indicate that there has been progress towards achieving gender parity among Italian deputies, although there is still work to be done to ensure equal representation across all parties.",  
+                style={'textAlign': 'center'}),
+            ])]
+            ,className=' mb-4')
 ])
 
 
