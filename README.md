@@ -9,7 +9,7 @@ Here [our website on the Gender Gap in the European Union Parliament](https://ge
 (_The website is not mobile-friendly_. We strongly advise to navigate the website using the laptop)
 
 ## Source of data
-All the information to create the dataset have been retrieved from the [webisite of the Members of the European Parliament](https://www.europarl.europa.eu/meps/en/home) using BeautifulSoup
+All the information to create the dataset have been retrieved from the [website of the Members of the European Parliament](https://www.europarl.europa.eu/meps/en/home) using BeautifulSoup
 
 
 ### Steps for the creation of the final merged dataset 
