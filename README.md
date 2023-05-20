@@ -1,4 +1,4 @@
-# Data Vizualization Project
+# Data Visualization Project
 
 ## Gender Gap in European Union Parliament
 
